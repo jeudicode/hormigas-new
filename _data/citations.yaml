@@ -1,174 +1,970 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1007/s00040-024-00974-3
+  title: Colony life history of the tropical arboreal ant, Cephalotes goniodontus
+    De Andrade, 1999
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - I. A. E. Butler
+  - T. Butterfield
+  - M. Janda
+  - D. M. Gordon
+  publisher: Insectes Sociaux
+  date: '2024-06-27'
+  link: https://doi.org/g42hfr
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1371/journal.pone.0308698
+  title: Phylogenetic structure of moth communities (Geometridae, Lepidoptera) along
+    a complete rainforest elevational gradient in Papua New Guinea
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Sentiko Ibalim
+  - Pagi S. Toko
+  - Simon T. Segar
+  - Katayo Sagata
+  - Bonny Koane
+  - Scott E. Miller
+  - Vojtech Novotny
+  - Milan Janda
+  publisher: PLOS ONE
+  date: '2024-08-12'
+  link: https://doi.org/g42hf5
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1111/btp.13295
+  title: "Leaf litter weevil richness increases with elevation in a tropical\u2013\
+    temperate transitional forest in El Cielo Biosphere Reserve, northeastern Mexico"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - "Dami\xE1n Villase\xF1or\u2010Amador"
+  - Milan Janda
+  - "Madai Rosas\u2010Mej\xEDa"
+  - "Fatima Magdalena Sandoval\u2010Becerra"
+  - Juan J. Morrone
+  publisher: Biotropica
+  date: '2024-01-07'
+  link: https://doi.org/g42hgm
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1111/mec.16657
+  title: 'Becoming urban: How city life shapes the social structure and genetics of
+    ants'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Milan Janda
+  publisher: Molecular Ecology
+  date: '2022-08-25'
+  link: https://doi.org/gzqw7r
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1007/s10530-020-02423-1
+  title: 'Alien ants (Hymenoptera: Formicidae) in Mexico: the first database of records'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - "Madai Rosas-Mej\xEDa"
+  - "Benoit Gu\xE9nard"
+  - "Mario Josu\xE9 Aguilar-M\xE9ndez"
+  - Adrian Ghilardi
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - Evan P. Economo
+  - Milan Janda
+  publisher: Biological Invasions
+  date: '2021-01-02'
+  link: https://doi.org/gt6n56
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.3897/bdj.9.e60630
+  title: New distributional records for ants and the evaluation of ant species richness
+    and endemism patterns in Mexico
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - "Mario J. Aguilar-M\xE9ndez"
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Gloria Ang\xE9lica Gonz\xE1lez-Hern\xE1ndez"
+  - Milan Janda
+  publisher: Biodiversity Data Journal
+  date: '2021-05-10'
+  link: https://doi.org/gwhqxw
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1111/een.12988
+  title: Environmental drivers of ant dominance in a tropical rainforest canopy at
+    different spatial scales
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Reuber Antoniazzi
+  - Roger Guevara
+  - "Jos\xE9 Garc\xEDa\u2010Franco"
+  - Milan Janda
+  - Maurice Leponce
+  - "Wesley D\xE1ttilo"
+  publisher: Ecological Entomology
+  date: '2020-11-29'
+  link: https://doi.org/g42hhf
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pbio.3001031
+  title: Functional innovation promotes diversification of form in the evolution of
+    an ultrafast trap-jaw mechanism in ants
+  authors:
+  - Douglas B. Booher
+  - Joshua C. Gibson
+  - Cong Liu
+  - John T. Longino
+  - Brian L. Fisher
+  - Milan Janda
+  - Nitish Narula
+  - Evropi Toulkeridou
+  - Alexander S. Mikheyev
+  - Andrew V. Suarez
+  - Evan P. Economo
+  publisher: PLOS Biology
+  date: '2021-03-02'
+  link: https://doi.org/g42hhx
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/btp.12773
+  title: "Diurnal foraging ant\u2013tree co\u2010occurrence networks are similar between\
+    \ canopy and understorey in a Neotropical rain forest"
+  authors:
+  - Reuber Antoniazzi
+  - "Jose Garc\xEDa\u2010Franco"
+  - Milan Janda
+  - Maurice Leponce
+  - "Wesley D\xE1ttilo"
+  publisher: Biotropica
+  date: '2020-03-05'
+  link: https://doi.org/gzx488
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ecy.2944
+  title: "Mexico ants: incidence and abundance along the Nearctic\u2013Neotropical\
+    \ interface"
+  authors:
+  - "Wesley D\xE1ttilo"
+  - "Miguel V\xE1squez\u2010Bola\xF1os"
+  - Diana A. Ahuatzin
+  - Reuber Antoniazzi
+  - "Edgar Ch\xE1vez\u2010Gonz\xE1lez"
+  - Erick Corro
+  - Pedro Luna
+  - Roger Guevara
+  - Fabricio Villalobos
+  - "Ricardo Madrigal\u2010Chavero"
+  - "J\xE9ssica C. de Faria Falc\xE3o"
+  - "Adri\xE1n Bonilla\u2010Ram\xEDrez"
+  - "Agust\xEDn Rafael Garc\xEDa Romero"
+  - Aldo de la Mora
+  - "Alfredo Ram\xEDrez\u2010Hern\xE1ndez"
+  - "Ana Leticia Escalante\u2010Jim\xE9nez"
+  - "Ana P. Mart\xEDnez\u2010Falc\xF3n"
+  - "Andr\xE9s I. Villarreal"
+  - "Ashley Garc\xEDa Col\xF3n Sandoval"
+  - "Bol\xEDvar Aponte"
+  - "Brenda Ju\xE1rez\u2010Ju\xE1rez"
+  - "Citlalli Castillo\u2010Guevara"
+  - Claudia E. Moreno
+  - Cristopher Albor
+  - "Dora Luz Mart\xEDnez\u2010Tlapa"
+  - "Elisabeth Huber\u2010Sannwald"
+  - Federico Escobar
+  - "Fernando J. Montiel\u2010Reyes"
+  - "Fernando Varela\u2010Hern\xE1ndez"
+  - "Gabriela Casta\xF1o\u2010Meneses"
+  - "Gabriela P\xE9rez\u2010Lachaud"
+  - "Gibr\xE1n Renoy P\xE9rez\u2010Toledo"
+  - "Irene Alcal\xE1\u2010Mart\xEDnez"
+  - "Iris Saraeny Rivera\u2010Salinas"
+  - "Isa\xEDas Chairez\u2010Hern\xE1ndez"
+  - "Ivette A. Chamorro\u2010Florescano"
+  - "Jaime Hern\xE1ndez\u2010Flores"
+  - "Javier Mart\xEDnez Toledo"
+  - "Jean\u2010Paul Lachaud"
+  - "Jes\xFAs Lumar Reyes\u2010Mu\xF1oz"
+  - "Jorge E. Valenzuela\u2010Gonz\xE1lez"
+  - "Jorge V\xEDctor Horta\u2010Vega"
+  - "Jos\xE9 Domingo Cruz\u2010Labana"
+  - "Jos\xE9 Javier Reynoso\u2010Campos"
+  - "Jos\xE9 L. Navarrete\u2010Heredia"
+  - "Juan Antonio Rodr\xEDguez\u2010Garza"
+  - "Juan Francisco P\xE9rez\u2010Dom\xEDnguez"
+  - "Julieta Ben\xEDtez\u2010Malvido"
+  - Katherine K. Ennis
+  - "Laura S\xE1enz"
+  - "Luis A. D\xEDaz\u2010Montiel"
+  - "Luis Antonio Tarango\u2010Ar\xE1mbula"
+  - "Luis N. Quiroz\u2010Robedo"
+  - "Madai Rosas\u2010Mej\xEDa"
+  - "Margarita Villalvazo\u2010Palacios"
+  - "Mar\xEDa G\xF3mez\u2010Lazaga"
+  - Mariana Cuautle
+  - "Mario J. Aguilar\u2010M\xE9ndez"
+  - Martha L. Baena
+  - "Martha Madora\u2010Astudillo"
+  - "Maya Rocha\u2010Ortega"
+  - Michel Pale
+  - "Miguel A. Garc\xEDa\u2010Mart\xEDnez"
+  - "Miguel Angel Soto\u2010C\xE1rdenas"
+  - "Miguel Mauricio Correa\u2010Ram\xEDrez"
+  - Milan Janda
+  - Patricia Rojas
+  - "Ren\xE9 Torres\u2010Ricario"
+  - Robert W. Jones
+  - Rosamond Coates
+  - "Sandra Luz G\xF3mez\u2010Acevedo"
+  - "Sa\xFAl Ugalde\u2010Lezama"
+  - Stacy M. Philpott
+  - Tatiana Joaqui
+  - Tatianne Marques
+  - "Veronica Zamora\u2010Gutierrez"
+  - "Viviana Mart\xEDnez Mandujano"
+  - "Zachary Hajian\u2010Forooshani"
+  - "Ian MacGregor\u2010Fors,"
+  publisher: Ecology
+  date: '2020-03-03'
+  link: https://doi.org/gwdq9t
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/geb.12867
+  title: Evolution of the latitudinal diversity gradient in the hyperdiverse ant genus
+    <i>Pheidole</i>
+  authors:
+  - Evan P. Economo
+  - "Jen\u2010Pan Huang"
+  - Georg Fischer
+  - Eli M. Sarnat
+  - Nitish Narula
+  - Milan Janda
+  - "Benoit Gu\xE9nard"
+  - John T. Longino
+  - L. Lacey Knowles
+  publisher: Global Ecology and Biogeography
+  date: '2019-01-13'
+  link: https://doi.org/ggd8r5
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-11262-2
+  title: "Animal Diversity and Biogeography of the Cuatro Ci\xE9negas Basin"
+  authors: []
+  publisher: "Cuatro Ci\xE9negas Basin: An Endangered Hyperdiverse Oasis"
+  date: '2019-01-01'
+  link: https://doi.org/gzqxhg
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-018-33210-7
+  title: Positive effects of the catastrophic Hurricane Patricia on insect communities
+  authors:
+  - Samuel Novais
+  - Luiz Eduardo Macedo-Reis
+  - "E. Jacob Cristobal-Per\xE9z"
+  - "Gumersindo S\xE1nchez-Montoya"
+  - Milan Janda
+  - Frederico Neves
+  - Mauricio Quesada
+  publisher: Scientific Reports
+  date: '2018-10-09'
+  link: https://doi.org/gfgbpf
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ympev.2017.03.026
+  title: 'There is no evidence that Podoctidae carry eggs of their own species: Reply
+    to Machado and Wolff (2017)'
+  authors:
+  - Prashant P. Sharma
+  - Jill T. Oberski
+  - Marc A. Santiago
+  - Ricardo Kriebel
+  - Savana M. Lipps
+  - Perry A.C. Buenavente
+  - Arvin C. Diesmos
+  - Milan Janda
+  - Sarah L. Boyer
+  - Ronald M. Clouse
+  - Ward C. Wheeler
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2018-12-01'
+  link: https://doi.org/gfkmv3
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/gcb.14331
+  title: "Dominance\u2013diversity relationships in ant communities differ with invasion"
+  authors:
+  - Xavier Arnan
+  - Alan N. Andersen
+  - Heloise Gibb
+  - Catherine L. Parr
+  - Nathan J. Sanders
+  - Robert R. Dunn
+  - Elena Angulo
+  - Fabricio B. Baccaro
+  - Tom R. Bishop
+  - "Rapha\xEBl Boulay"
+  - Cristina Castracani
+  - "Xim Cerd\xE1"
+  - Israel Del Toro
+  - Thibaut Delsinne
+  - David A. Donoso
+  - Emilie K. Elten
+  - Tom M. Fayle
+  - Matthew C. Fitzpatrick
+  - "Crisanto G\xF3mez"
+  - Donato A. Grasso
+  - Blair F. Grossman
+  - "Benoit Gu\xE9nard"
+  - Nihara Gunawardene
+  - Brian Heterick
+  - Benjamin D. Hoffmann
+  - Milan Janda
+  - Clinton N. Jenkins
+  - Petr Klimes
+  - Lori Lach
+  - Thomas Laeger
+  - Maurice Leponce
+  - Andrea Lucky
+  - Jonathan Majer
+  - Sean Menke
+  - Dirk Mezger
+  - Alessandra Mori
+  - Jimmy Moses
+  - Thinandavha Caswell Munyai
+  - Omid Paknia
+  - Martin Pfeiffer
+  - Stacy M. Philpott
+  - Jorge L.P. Souza
+  - Melanie Tista
+  - Heraldo L. Vasconcelos
+  - Javier Retana
+  publisher: Global Change Biology
+  date: '2018-06-21'
+  link: https://doi.org/gzj23n
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/mec.14835
+  title: "Taxon cycle predictions supported by model\u2010based inference in Indo\u2010\
+    Pacific trap\u2010jaw ants (Hymenoptera: Formicidae: <i>Odontomachus</i>)"
+  authors:
+  - "P\xE1vel Matos\u2010Marav\xED"
+  - Nicholas J. Matzke
+  - Fredrick J. Larabee
+  - Ronald M. Clouse
+  - Ward C. Wheeler
+  - Daniela Magdalena Sorger
+  - Andrew V. Suarez
+  - Milan Janda
+  publisher: Molecular Ecology
+  date: '2018-09-22'
+  link: https://doi.org/gd22c8
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ympev.2018.02.007
+  title: An ant genus-group (Prenolepis) illuminates the biogeography and drivers
+    of insect diversification in the Indo-Pacific
+  authors:
+  - "P\xE1vel Matos-Marav\xED"
+  - Ronald M. Clouse
+  - Eli M. Sarnat
+  - Evan P. Economo
+  - John S. LaPolla
+  - Michaela Borovanska
+  - Christian Rabeling
+  - Jesse Czekanski-Moir
+  - Fransina Latumahina
+  - Edward O. Wilson
+  - Milan Janda
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2018-06-01'
+  link: https://doi.org/gdd6gc
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jbi.12884
+  title: "Assembling a species\u2013area curve through colonization, speciation and\
+    \ human\u2010mediated introduction"
+  authors:
+  - Evan P. Economo
+  - Milan Janda
+  - "Benoit Gu\xE9nard"
+  - Eli Sarnat
+  publisher: Journal of Biogeography
+  date: '2016-10-14'
+  link: https://doi.org/gzqxvx
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2016.1759
+  title: 'The assembly of ant-farmed gardens: mutualism specialization following host
+    broadening'
+  authors:
+  - Guillaume Chomicki
+  - Milan Janda
+  - Susanne S. Renner
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2017-03-15'
+  link: https://doi.org/ghppmf
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/ecy.1682
+  title: A global database of ant species abundances
+  authors:
+  - Heloise Gibb
+  - Rob R. Dunn
+  - Nathan J. Sanders
+  - Blair F. Grossman
+  - Manoli Photakis
+  - Silvia Abril
+  - Donat Agosti
+  - Alan N. Andersen
+  - Elena Angulo
+  - Inge Armbrecht
+  - Xavier Arnan
+  - Fabricio B. Baccaro
+  - Tom R. Bishop
+  - "Rapha\xEBl Boulay"
+  - "Carsten Br\xFChl"
+  - Cristina Castracani
+  - Xim Cerda
+  - Israel Del Toro
+  - Thibaut Delsinne
+  - Mireia Diaz
+  - David A. Donoso
+  - Aaron M. Ellison
+  - Martha L. Enriquez
+  - Tom M. Fayle
+  - Donald H. Feener
+  - Brian L. Fisher
+  - Robert N. Fisher
+  - Matthew C. Fitzpatrick
+  - "Crisanto G\xF3mez"
+  - Nicholas J. Gotelli
+  - Aaron Gove
+  - Donato A. Grasso
+  - Sarah Groc
+  - Benoit Guenard
+  - Nihara Gunawardene
+  - Brian Heterick
+  - Benjamin Hoffmann
+  - Milan Janda
+  - Clinton Jenkins
+  - Michael Kaspari
+  - Petr Klimes
+  - Lori Lach
+  - Thomas Laeger
+  - John Lattke
+  - Maurice Leponce
+  - "Jean\u2010Philippe Lessard"
+  - John Longino
+  - Andrea Lucky
+  - Sarah H. Luke
+  - Jonathan Majer
+  - Terrence P. McGlynn
+  - Sean Menke
+  - Dirk Mezger
+  - Alessandra Mori
+  - Jimmy Moses
+  - Thinandavha Caswell Munyai
+  - Renata Pacheco
+  - Omid Paknia
+  - "Jessica Pearce\u2010Duvet"
+  - Martin Pfeiffer
+  - Stacy M. Philpott
+  - Julian Resasco
+  - Javier Retana
+  - Rogerio R. Silva
+  - Magdalena D. Sorger
+  - Jorge Souza
+  - Andrew Suarez
+  - Melanie Tista
+  - Heraldo L. Vasconcelos
+  - Merav Vonshak
+  - Michael D. Weiser
+  - Michelle Yates
+  - Catherine L. Parr
+  publisher: Ecology
+  date: '2017-03-01'
+  link: https://doi.org/gzqx37
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ympev.2016.09.019
+  title: A multilocus phylogeny of Podoctidae (Arachnida, Opiliones, Laniatores) and
+    parametric shape analysis reveal the disutility of subfamilial nomenclature in
+    armored harvestman systematics
+  authors:
+  - Prashant P. Sharma
+  - Marc A. Santiago
+  - Ricardo Kriebel
+  - Savana M. Lipps
+  - Perry A.C. Buenavente
+  - Arvin C. Diesmos
+  - Milan Janda
+  - Sarah L. Boyer
+  - Ronald M. Clouse
+  - Ward C. Wheeler
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2017-01-01'
+  link: https://doi.org/gfkmv4
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3391/bir.2017.6.3.02
+  title: 'Cycad Aulacaspis Scale (Aulacaspis yasumatsui Takagi, 1977) in Mexico and
+    Guatemala: a threat to native cycads'
+  authors:
+  - Benjamin Normark
+  - Roxanna Normark
+  - Andrew Vovides
+  - "Lislie Sol\xEDs-Montero"
+  - "Rebeca Gonz\xE1lez-G\xF3mez"
+  - "Mar\xEDa Pulido-Silva"
+  - Marcos Escobar-Castellanos
+  - Marco Dominguez
+  - Miguel Perez-Farrera
+  - Milan Janda
+  - Angelica Cibrian-Jaramillo
+  publisher: BioInvasions Records
+  date: '2017-01-01'
+  link: https://doi.org/gzmmtk
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ympev.2016.07.024
+  title: 'Molecular phylogenetics and diversification of trap-jaw ants in the genera
+    Anochetus and Odontomachus (Hymenoptera: Formicidae)'
+  authors:
+  - Fredrick J. Larabee
+  - Brian L. Fisher
+  - Chris A. Schmidt
+  - "P\xE1vel Matos-Marav\xED"
+  - Milan Janda
+  - Andrew V. Suarez
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2016-10-01'
+  link: https://doi.org/f82ghn
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.14411/eje.2016.053
+  title: 'Identification of microsatellite markers for a worldwide distributed, highly
+    invasive ant species Tapinoma melanocephalum (Hymenoptera: Formicidae)'
+  authors:
+  - Jan ZIMA
+  - Ophelie LEBRASSEUR
+  - Michaela BOROVANSKA
+  - Milan JANDA
+  publisher: European Journal of Entomology
+  date: '2016-06-03'
+  link: https://doi.org/g42hm3
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1071/is14050
+  title: 'Phylogeny and population genetic structure of the ant genus Acropyga (Hymenoptera
+    : Formicidae) in Papua New Guinea'
+  authors:
+  - Milan Janda
+  - "P\xE1vel Matos-Marav\xED"
+  - Michaela Borovanska
+  - Jan Zima
+  - Eric Youngerman
+  - Naomi E. Pierce
+  publisher: Invertebrate Systematics
+  date: '2016-01-01'
+  link: https://doi.org/f8fmdj
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jbi.12592
+  title: 'Breaking out of biogeographical modules: range expansion and taxon cycles
+    in the hyperdiverse ant genus <i>Pheidole</i>'
+  authors:
+  - Evan P. Economo
+  - Eli M. Sarnat
+  - Milan Janda
+  - Ronald Clouse
+  - Pavel B. Klimov
+  - Georg Fischer
+  - Benjamin D. Blanchard
+  - Lizette N. Ramirez
+  - Alan N. Andersen
+  - Maia Berman
+  - "Benoit Gu\xE9nard"
+  - Andrea Lucky
+  - Christian Rabeling
+  - Edward O. Wilson
+  - L. Lacey Knowles
+  publisher: Journal of Biogeography
+  date: '2015-09-01'
+  link: https://doi.org/f754j2
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/cla.12099
+  title: "Molecular phylogeny of<scp>I</scp>ndo\u2010<scp>P</scp>acific carpenter\
+    \ ants (<scp>H</scp>ymenoptera:<scp>F</scp>ormicidae,<i><scp>C</scp>amponotus</i>)\
+    \ reveals waves of dispersal and colonization from diverse source areas"
+  authors:
+  - Ronald M. Clouse
+  - Milan Janda
+  - Benjamin Blanchard
+  - Prashant Sharma
+  - Benjamin D. Hoffmann
+  - Alan N. Andersen
+  - "Jesse E. Czekanski\u2010Moir"
+  - Paul Krushelnycky
+  - Christian Rabeling
+  - Edward O. Wilson
+  - Evan P. Economo
+  - Eli M. Sarnat
+  - David M. General
+  - Gary D. Alpert
+  - Ward C. Wheeler
+  publisher: Cladistics
+  date: '2014-11-07'
+  link: https://doi.org/gfzntc
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3897/zookeys.472.8441
+  title: "Ants of Ambon Island \u2013 diversity survey and checklist"
+  authors:
+  - Milan Janda
+  - Fransina Latumahina
+  - Michaela Borovanska
+  - ' Musyafa'
+  - ' Sumardi'
+  - Nugroho Susetya Putra
+  publisher: ZooKeys
+  date: '2015-01-19'
+  link: https://doi.org/g42hnw
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2656.2012.02002.x
+  title: Why are there more arboreal ant species in primary than in secondary tropical
+    forests?
+  authors:
+  - Petr Klimes
+  - Cliffson Idigel
+  - Maling Rimandai
+  - Tom M. Fayle
+  - Milan Janda
+  - George D. Weiblen
+  - Vojtech Novotny
+  publisher: Journal of Animal Ecology
+  date: '2012-05-29'
+  link: https://doi.org/f373gt
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0036514
+  title: 'Wolbachia and DNA Barcoding Insects: Patterns, Potential, and Problems'
+  authors:
+  - M. Alex Smith
+  - Claudia Bertrand
+  - Kate Crosby
+  - Eldon S. Eveleigh
+  - Jose Fernandez-Triana
+  - Brian L. Fisher
+  - Jason Gibbs
+  - Mehrdad Hajibabaei
+  - Winnie Hallwachs
+  - Katharine Hind
+  - Jan Hrcek
+  - Da-Wei Huang
+  - Milan Janda
+  - Daniel H. Janzen
+  - Yanwei Li
+  - Scott E. Miller
+  - Laurence Packer
+  - Donald Quicke
+  - Sujeevan Ratnasingham
+  - Josephine Rodriguez
+  - Rodolphe Rougerie
+  - Mark R. Shaw
+  - Cory Sheffield
+  - Julie K. Stahlhut
+  - Dirk Steinke
+  - James Whitfield
+  - Monty Wood
+  - Xin Zhou
+  publisher: PLoS ONE
+  date: '2012-05-02'
+  link: https://doi.org/f3xqnr
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2311.2010.01250.x
+  title: 'Experimental suppression of ants foraging on rainforest vegetation in New
+    Guinea: testing methods for a whole-forest manipulation of insect communities'
+  authors:
+  - PETR KLIMES
+  - MILAN JANDA
+  - SENTIKO IBALIM
+  - JOSEPH KUA
+  - VOJTECH NOVOTNY
+  publisher: Ecological Entomology
+  date: '2010-12-22'
+  link: https://doi.org/bf5x4z
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1017/s0266467410000623
+  title: Canopy assemblages of ants in a New Guinea rain forest
+  authors:
+  - Milan Janda
+  - "Martina Kone\u010Dn\xE1"
+  publisher: Journal of Tropical Ecology
+  date: '2010-12-17'
+  link: https://doi.org/ddspxb
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsbl.2010.0151
+  title: "Canopy and litter ant assemblages share similar climate\u2013species density\
+    \ relationships"
+  authors:
+  - Michael D. Weiser
+  - Nathan J. Sanders
+  - Donat Agosti
+  - Alan N. Andersen
+  - Aaron M. Ellison
+  - Brian L. Fisher
+  - Heloise Gibb
+  - Nicholas J. Gotelli
+  - Aaron D. Gove
+  - Kevin Gross
+  - "Benoit Gu\xE9nard"
+  - Milan Janda
+  - Michael Kaspari
+  - Jean-Philippe Lessard
+  - John T. Longino
+  - Jonathan D. Majer
+  - Sean B. Menke
+  - Terrence P. McGlynn
+  - Catherine L. Parr
+  - Stacy M. Philpott
+  - Javier Retana
+  - Andrew V. Suarez
+  - Heraldo L. Vasconcelos
+  - Stephen P. Yanoviak
+  - Robert R. Dunn
+  publisher: Biology Letters
+  date: '2010-05-12'
+  link: https://doi.org/cr957k
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.11646/zootaxa.2062.1.5
+  title: 'Leptogenopapus mirabilis, a new genus and species of Lomechusini (Coleoptera:
+    Staphylinidae, Aleocharinae) from Papua New Guinea associated with ants of the
+    genus Leptogenys Roger'
+  authors:
+  - "PETER HLAV\xC1\u010C"
+  - MILAN JANDA
+  publisher: Zootaxa
+  date: '2009-04-03'
+  link: https://doi.org/g42hs2
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1461-0248.2009.01291.x
+  title: Climatic drivers of hemispheric asymmetry in global patterns of ant species
+    richness
+  authors:
+  - Robert R. Dunn
+  - Donat Agosti
+  - Alan N. Andersen
+  - Xavier Arnan
+  - Carsten A. Bruhl
+  - "Xim Cerd\xE1"
+  - Aaron M. Ellison
+  - Brian L. Fisher
+  - Matthew C. Fitzpatrick
+  - Heloise Gibb
+  - Nicholas J. Gotelli
+  - Aaron D. Gove
+  - Benoit Guenard
+  - Milan Janda
+  - Michael Kaspari
+  - Edward J. Laurent
+  - "Jean\u2010Philippe Lessard"
+  - John T. Longino
+  - Jonathan D. Majer
+  - Sean B. Menke
+  - Terrence P. McGlynn
+  - Catherine L. Parr
+  - Stacy M. Philpott
+  - Martin Pfeiffer
+  - Javier Retana
+  - Andrew V. Suarez
+  - Heraldo L. Vasconcelos
+  - Michael D. Weiser
+  - Nathan J. Sanders
+  publisher: Ecology Letters
+  date: '2009-03-10'
+  link: https://doi.org/bcj79j
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nature06021
+  title: Low beta diversity of herbivorous insects in tropical forests
+  authors:
+  - Vojtech Novotny
+  - Scott E. Miller
+  - Jiri Hulcr
+  - Richard A. I. Drew
+  - Yves Basset
+  - Milan Janda
+  - Gregory P. Setliff
+  - Karolyn Darrow
+  - Alan J. A. Stewart
+  - John Auga
+  - Brus Isua
+  - Kenneth Molem
+  - Markus Manumbor
+  - Elvis Tamtiai
+  - Martin Mogia
+  - George D. Weiblen
+  publisher: Nature
+  date: '2007-08-01'
+  link: https://doi.org/dpwwgb
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1139702
+  title: Response to Comment on "Why Are There So Many Species of Herbivorous Insects
+    in Tropical Rainforests?"
+  authors:
+  - Vojtech Novotny
+  - Pavel Drozd
+  - Scott E. Miller
+  - Miroslav Kulfan
+  - Milan Janda
+  - Yves Basset
+  - George D. Weiblen
+  publisher: Science
+  date: '2007-03-23'
+  link: https://doi.org/dj9m5c
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/science.1129237
+  title: Why Are There So Many Species of Herbivorous Insects in Tropical Rainforests?
+  authors:
+  - Vojtech Novotny
+  - Pavel Drozd
+  - Scott E. Miller
+  - Miroslav Kulfan
+  - Milan Janda
+  - Yves Basset
+  - George D. Weiblen
+  publisher: Science
+  date: '2006-08-25'
+  link: https://doi.org/c4bpdk
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ympev.2004.07.012
+  title: 'Phylogeny of Lasius ants based on mitochondrial DNA and morphology, and
+    the evolution of social parasitism in the Lasiini (Hymenoptera: Formicidae)'
+  authors:
+  - Milan Janda
+  - "Dagmar Folkov\xE1"
+  - "Jan Zrzav\xFD"
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2004-12-01'
+  link: https://doi.org/crrmf8
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1461-0248.2004.00666.x
+  title: "No tree an island: the plant\u2013caterpillar food web of a secondary rain\
+    \ forest in New Guinea"
+  authors:
+  - Vojtech Novotny
+  - Scott E. Miller
+  - Jan Leps
+  - Yves Basset
+  - Darren Bito
+  - Milan Janda
+  - Jiri Hulcr
+  - Kipiro Damas
+  - George D. Weiblen
+  publisher: Ecology Letters
+  date: '2004-09-22'
+  link: https://doi.org/cnnfsz
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1365-2311.2003.00558.x
+  title: "Colonising aliens: caterpillars (Lepidoptera) feeding on <i>Piper aduncum</i>\
+    \ and <i>P.\u2003umbellatum</i> in rainforests of Papua New Guinea"
+  authors:
+  - Vojtech Novotny
+  - Scott. E. Miller
+  - Lukas Cizek
+  - Jan Leps
+  - Milan Janda
+  - Yves Basset
+  - George D. Weiblen
+  - Karolyn Darrow
+  publisher: Ecological Entomology
+  date: '2003-12-01'
+  link: https://doi.org/fch4mm
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +980,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +996,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:

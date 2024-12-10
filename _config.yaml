@@ -1,9 +1,9 @@
 # site properties and page defaults
-title: Lab Website Template
-subtitle: by the Greene Lab
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-header: images/background.jpg
-footer: images/background.jpg
+title: Laboratory of Molecular Ecology & Biodiversity
+subtitle: Hormigas MX
+description: 
+header: images/IMG_1709-1.jpg
+footer: images/IMG_1709-1.jpg
 proofer: false
 
 # site social media and other links
