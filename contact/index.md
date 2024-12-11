@@ -1,34 +1,11 @@
 ---
 title: Contact
 nav:
-  order: 5
+  order: 6
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{%
-  include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
-  type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
-%}
+# Contact 
 
 {% include section.html %}
 
@@ -36,8 +13,38 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/lanase.png"
+  caption="LANASE at ENES Morelia, UNAM"
+%}
+
+
+
+
+## Laboratorio Nacional de Análisis y Síntesis Ecológica (LANASE)
+Escuela Nacional de Estudios Superiores Unidad Morelia, UNAM 
+(ENES, UNAM)<br>
+Antigua Carretera a Pátzcuaro 8701 <br>
+Ex hacienda de San José de la Huerta, Morelia, Michoacán<br>
+MEXICO
+
+{%
+  include button.html
+  type="address"
+  tooltip="See on map"
+  link="https://maps.app.goo.gl/b835hAhzGqBK1oQf6"
+%}
+
+{%
+  include button.html
+  type="email"
+  text="lanase@enesmorelia.unam.mx"
+  link="lanase@enesmorelia.unam.mx"
+%}
+{%
+  include button.html
+  type="phone"
+  text="+52 (443) 689 3500 Ext. 37317"
+  link="+52 (443) 689 3500 Ext. 37317"
 %}
 
 {% endcapture %}
@@ -46,9 +53,17 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/palacky.webp"
   caption="Lorem ipsum"
 %}
+
+# Dept. Zoology, Palacky University
+https://zoologie.upol.cz/
+
+Department of Zoology
+Faculty of Science, Palacký University
+17. listopadu 50
+771 46 Olomouc
 
 {% endcapture %}
 
