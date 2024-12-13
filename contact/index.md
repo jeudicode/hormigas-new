@@ -53,40 +53,29 @@ MEXICO
 
 {%
   include figure.html
-  image="images/palacky.webp"
-  caption="Lorem ipsum"
+  image="images/palacky.png"
+  caption="Palacky University"
 %}
 
-# Dept. Zoology, Palacky University
-https://zoologie.upol.cz/
+## Dept. Zoology, Palacky University
+<a href="https://zoologie.upol.cz/">https://zoologie.upol.cz/</a>
 
-Department of Zoology
-Faculty of Science, Palacký University
-17. listopadu 50
-771 46 Olomouc
+Department of Zoology<br>
+Faculty of Science, Palacký University<br>
+17 listopadu 50<br>
+771 46 Olomouc<br>
+
+{%
+  include button.html
+  type="address"
+  tooltip="See on map"
+  link="https://maps.app.goo.gl/b835hAhzGqBK1oQf6"
+%}
+
+
 
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
 
-{% include section.html dark=true %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
