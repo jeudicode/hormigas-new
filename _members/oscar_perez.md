@@ -2,7 +2,7 @@
 name: Oscar Pérez-Flores
 image: images/oscar.jpg
 role: phd
-affiliation: ENES Morelia UNAM
+affiliation: UNAM ENES Morelia 
 aliases:
   - Oscar Pérez-Flores
 links:

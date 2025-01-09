@@ -1,8 +1,8 @@
 ---
 name: Efrain Carrillo
 image: images/efrain.jpg
-role: msc
-affiliation: 
+role: phd
+affiliation: UNAM ENES Morelia
 aliases:
   - Efrain Carrillo
 links:

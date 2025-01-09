@@ -2,7 +2,7 @@
 name: Damián Villaseñor
 image: images/damian.png
 role: phd
-affiliation: 
+affiliation: Palacký University Olomouc
 aliases:
   - Damián Villaseñor
   - Damián Villaseñor-Amador

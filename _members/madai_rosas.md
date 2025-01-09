@@ -1,11 +1,12 @@
 ---
 name: Dra. Madai Rosas Mejía
 image: images/madai.jpg
-role: 
-affiliation: 
+role: pi
+affiliation: UNAM ENES Morelia
 aliases:
   - Madai Rosas
 links:
+  orcid: 000-0003-3038-0107
   
 ---
 

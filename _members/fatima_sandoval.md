@@ -1,8 +1,8 @@
 ---
 name: Fatima Magdalena Sandoval Becerra 
 image: images/fatima.jpg
-role: 
-affiliation:
+role: phd
+affiliation: Universidad de Tamaulipas
 aliases:
   - Fatima Sandoval
   - F.M. Sandoval-Becerra
