@@ -23,7 +23,7 @@ Find the description of our different lines of research and the people involved 
 
 {%
   include feature.html
-  image="images/a6_e.jpg"
+  image="images/Clip_2.jpg"
   link="research"
   title="Our Research"
   text=text
