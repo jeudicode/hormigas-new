@@ -13,7 +13,7 @@ Find the description of our different lines of research and the people involved 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="See our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"

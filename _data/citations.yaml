@@ -46,10 +46,11 @@
   publisher: Biotropica
   date: '2024-01-07'
   link: https://doi.org/g42hgm
-  orcid: 0000-0003-3038-0107
+  orcid: 0000-0002-6815-7122
   milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
+  madai-rosas: true
 - id: doi:10.1111/mec.16657
   title: 'Becoming urban: How city life shapes the social structure and genetics of
     ants'
@@ -75,10 +76,11 @@
   publisher: Biological Invasions
   date: '2021-01-02'
   link: https://doi.org/gt6n56
-  orcid: 0000-0003-3038-0107
+  orcid: 0000-0002-6815-7122
   milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
+  madai-rosas: true
 - id: doi:10.3897/bdj.9.e60630
   title: New distributional records for ants and the evaluation of ant species richness
     and endemism patterns in Mexico
@@ -91,10 +93,11 @@
   publisher: Biodiversity Data Journal
   date: '2021-05-10'
   link: https://doi.org/gwhqxw
-  orcid: 0000-0003-3038-0107
+  orcid: 0000-0002-6815-7122
   milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
+  madai-rosas: true
 - id: doi:10.1111/een.12988
   title: Environmental drivers of ant dominance in a tropical rainforest canopy at
     different spatial scales
@@ -236,10 +239,11 @@
   publisher: Ecology
   date: '2020-03-03'
   link: https://doi.org/gwdq9t
-  orcid: 0000-0003-3038-0107
+  orcid: 0000-0002-6815-7122
   milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
+  madai-rosas: true
 - id: doi:10.1111/geb.12867
   title: Evolution of the latitudinal diversity gradient in the hyperdiverse ant genus
     <i>Pheidole</i>
@@ -948,3 +952,731 @@
   milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/j.1365-2311.2003.00558.x
+  title: "Colonising aliens: caterpillars (Lepidoptera) feeding on <i>Piper aduncum</i>\
+    \ and <i>P.\u2003umbellatum</i> in rainforests of Papua New Guinea"
+  authors:
+  - Vojtech Novotny
+  - Scott. E. Miller
+  - Lukas Cizek
+  - Jan Leps
+  - Milan Janda
+  - Yves Basset
+  - George D. Weiblen
+  - Karolyn Darrow
+  publisher: Ecological Entomology
+  date: '2003-12-01'
+  link: https://doi.org/fch4mm
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s00040-024-00993-0
+  title: 'Indicator ants (Hymenoptera: Formicidae) of disturbance in Mexico'
+  authors:
+  - "Itzel R. Rodr\xEDguez-deLe\xF3n"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - Crystian S. Venegas-Barrera
+  - Jorge V. Horta Vega
+  - "Mario J. Aguilar-M\xE9ndez"
+  - "Miguel A. Garc\xEDa-Mart\xEDnez"
+  - "Madai Rosas-Mej\xEDa"
+  publisher: Insectes Sociaux
+  date: '2024-08-20'
+  link: https://doi.org/g8x4gz
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15517/rev.biol.trop..v72i1.58107
+  title: 'Ant Communities (Hymenoptera: Formicidae) in a Protected Urban Park in Northeast
+    Mexico'
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  publisher: "Revista de Biolog\xEDa Tropical"
+  date: '2024-06-14'
+  link: https://doi.org/g8x4g2
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.23850/24220582.6217
+  title: Taxonomic report of filamentous fungi presents in sewage waste sludge with
+    biotechnologi-cal potential
+  authors:
+  - "Brenda Irais Guti\xE9rrez-Anzueto"
+  - Sandra Grisell Mora-Ravelo
+  - "Daniel Gonz\xE1lez-Mendoza"
+  - Francisco Reyes Zepeda
+  - "Madai Rosas-Mej\xEDa"
+  publisher: Revista Colombiana de Investigaciones Agroindustriales
+  date: '2024-05-02'
+  link: https://doi.org/g8x4g3
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/jen.13242
+  title: A comparison of adult population fluctuation of <i>Anastrepha</i> pest species
+    between agricultural environments and protected natural areas in northeastern
+    Mexico
+  authors:
+  - "Celestino Mart\xEDnez\u2010Bernal"
+  - "Venancio Vanoye\u2010Eligio"
+  - "Maximiliano Vanoye\u2010Eligio"
+  - "Madai Rosas\u2010Mej\xEDa"
+  - "Julio C\xE9sar Chac\xF3n\u2010Hern\xE1ndez"
+  - "Mario Rocandio\u2010Rodr\xEDguez"
+  publisher: Journal of Applied Entomology
+  date: '2024-02-23'
+  link: https://doi.org/g8x4g4
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.048.0325
+  title: 'Solenopsis geminata1: First Report as a Persistent Pest of Manzano Pepper
+    Harvested in the Northern Highlands of Puebla, Mexico'
+  authors:
+  - "Mariana Flores-Hern\xE1ndez"
+  - Jorge Ariel Torres Castillo
+  - "Wendy Abril Coyotl-P\xE9rez"
+  - Eric Reyes-Cervantes
+  - "Mada\xED Rosas-Mej\xEDa"
+  - Nemesio Villa-Ruano
+  publisher: Southwestern Entomologist
+  date: '2023-10-05'
+  link: https://doi.org/g8x4g5
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3897/BDJ.11.e109794
+  title: 'Ants of Mexico: Distribution and species richness in environments with varying
+    levels of human impact'
+  authors:
+  - "Itzel Rodr\xEDguez de Le\xF3n"
+  - Crystian Venegas Barrera
+  - "Griselda Gaona Garc\xEDa"
+  - "Ausencio Azuara Dom\xEDnguez"
+  - "Madai Rosas Mej\xEDa"
+  publisher: Biodiversity Data Journal
+  date: '2023-10-02'
+  link: https://doi.org/g8x4g6
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3897/bdj.11.e109794.figure1
+  title: "Figure 1 from: Rodr\xEDguez de Le\xF3n IR, Venegas Barrera CS, Gaona Garc\xED\
+    a G, Azuara Dom\xEDnguez A, Rosas Mej\xEDa M (2023) Ants of Mexico: Distribution\
+    \ and species richness in environments with varying levels of human impact. Biodiversity\
+    \ Data Journal 11: e109794. https://doi.org/10.3897/BDJ.11.e109794"
+  authors:
+  - "Itzel Rodr\xEDguez de Le\xF3n"
+  - Crystian Venegas Barrera
+  - "Griselda Gaona Garc\xEDa"
+  - "Ausencio Azuara Dom\xEDnguez"
+  - "Madai Rosas Mej\xEDa"
+  publisher: Pensoft Publishers
+  date: '2023-10-02'
+  link: https://doi.org/g8x4g7
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3897/bdj.11.e109794.figure2
+  title: "Figure 2 from: Rodr\xEDguez de Le\xF3n IR, Venegas Barrera CS, Gaona Garc\xED\
+    a G, Azuara Dom\xEDnguez A, Rosas Mej\xEDa M (2023) Ants of Mexico: Distribution\
+    \ and species richness in environments with varying levels of human impact. Biodiversity\
+    \ Data Journal 11: e109794. https://doi.org/10.3897/BDJ.11.e109794"
+  authors:
+  - "Itzel Rodr\xEDguez de Le\xF3n"
+  - Crystian Venegas Barrera
+  - "Griselda Gaona Garc\xEDa"
+  - "Ausencio Azuara Dom\xEDnguez"
+  - "Madai Rosas Mej\xEDa"
+  publisher: Pensoft Publishers
+  date: '2023-10-02'
+  link: https://doi.org/g8x4g8
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3897/bdj.11.e109794.suppl1
+  title: "Supplementary material 1 from: Rodr\xEDguez de Le\xF3n IR, Venegas Barrera\
+    \ CS, Gaona Garc\xEDa G, Azuara Dom\xEDnguez A, Rosas Mej\xEDa M (2023) Ants of\
+    \ Mexico: Distribution and species richness in environments with varying levels\
+    \ of human impact. Biodiversity Data Journal 11: e109794. https://doi.org/10.3897/BDJ.11.e109794"
+  authors:
+  - "Itzel Rodr\xEDguez de Le\xF3n"
+  - Crystian Venegas Barrera
+  - "Griselda Gaona Garc\xEDa"
+  - "Ausencio Azuara Dom\xEDnguez"
+  - "Madai Rosas Mej\xEDa"
+  publisher: Pensoft Publishers
+  date: '2023-10-02'
+  link: https://doi.org/g8x4g9
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.048.0203
+  title: Functional Response of Pseudodoros clavatus Fabricius1 on Aphis nerii Boyer
+    de Fonscolombe2
+  authors:
+  - "Gerardo Montelongo-Ru\xEDz"
+  - "Julio C\xE9sar Chac\xF3n-Hern\xE1ndez"
+  - "Madai Rosas-Mej\xEDa"
+  - "Agust\xEDn Hern\xE1ndez-Ju\xE1rez"
+  - Salvador Ordaz-Silva
+  - Sandra Grisell Mora-Ravelo
+  - Venancio Vanoye-Eligio
+  publisher: Southwestern Entomologist
+  date: '2023-07-14'
+  link: https://doi.org/g8x4hb
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18474/jes22-78
+  title: 'New Records of Ant (Hymenoptera: Formicidae) Species for Hidalgo, Mexico'
+  authors:
+  - "Itzc\xF3atl Mart\xEDnez-S\xE1nchez"
+  - "Miguel Vasquez-Bola\xF1os"
+  - "Griselda Gaona-Garc\xEDa"
+  - "Ericka Mart\xEDnez-Hern\xE1ndez"
+  - "Alejandra L\xF3pez-Mancilla"
+  - "Madai Rosas-Mej\xEDa"
+  publisher: Journal of Entomological Science
+  date: '2023-06-26'
+  link: https://doi.org/g8x4hc
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.25100/socolen.v48i2.11980
+  title: "Primeros registros de dos especies y dos g\xE9neros de hormigas (Hymenoptera:\
+    \ Formicidae) colectadas en una  zona semiurbana de Yucat\xE1n, M\xE9xico"
+  authors:
+  - Alan Cano-Ravell
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Horacio Salom\xF3n Ballina-G\xF3mez"
+  - "Ana Luz Tuyin-D\xEDaz"
+  - "Guadalupe del Carmen Reyes-Sol\xEDs"
+  publisher: "Revista Colombiana de Entomolog\xEDa"
+  date: '2022-12-05'
+  link: https://doi.org/g8x4hd
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.047.0329
+  title: Interacciones Entre Hormigas1 y la Mosca Negra, Aleurocanthus woglumi2, sobre
+    Cultivos de Palmilla Chamaedorea radicalis3
+  authors:
+  - "Cristian D. Marez-L\xF3pez"
+  - "Miguel A. Garc\xEDa-Mart\xEDnez"
+  - "Griselda Gaona-Garc\xEDa"
+  - Venancio Vanoye-Eligio
+  - "Madai Rosas-Mej\xEDa"
+  publisher: Southwestern Entomologist
+  date: '2022-09-16'
+  link: https://doi.org/g8x4hf
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.047.0228
+  title: 'Azteca instabilis1: First Report of the Ant in the Tropical Dry Forest at
+    Tamaulipas, Mexico'
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  - Sugeidi San Juanita Siaz-Torres
+  - "Leonardo Uriel Arellano-M\xE9ndez"
+  - Jorge Ariel Torres-Castillo
+  - Edilia de la Rosa-Manzano
+  publisher: Southwestern Entomologist
+  date: '2022-06-17'
+  link: https://doi.org/g8x4hg
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.25100/socolen.v48i1.11505
+  title: "Primer reporte de Cephalonomia gallicola (Ashmead) (Hymenoptera: Bethylidae)\
+    \ en M\xE9xico: Un caso de picaduras en humanos"
+  authors:
+  - "Miguel \xC1. Garc\xEDa-Mart\xEDnez"
+  - Francisco Reyes-Zepeda
+  - "Madai Rosas-Mej\xEDa"
+  publisher: "Revista Colombiana de Entomolog\xEDa"
+  date: '2022-04-07'
+  link: https://doi.org/g8x4hh
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.25085/rsea.800404
+  title: "Myrmecological diversity (Hymenoptera: Formicidae) in Tamaulipas, M\xE9\
+    xico"
+  authors:
+  - "Itzel Rodr\xEDguez de Le\xF3n"
+  - "Lidia Guzm\xE1n-D\xEDaz"
+  - "Madai Rosas Mej\xEDa"
+  publisher: "Revista de la Sociedad Entomol\xF3gica Argentina"
+  date: '2021-12-30'
+  link: https://doi.org/g8x4hj
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.11646/zootaxa.5071.4.3
+  title: 'Current knowledge of the family Pompilidae (Hymenoptera: Vespoidea) in Mexico:
+    diversity and geographical distribution'
+  authors:
+  - MAXIMILIANO VANOYE-ELIGIO
+  - "MAR\xCDA DEL CARMEN G\xD3MEZ-CAMAL"
+  - "BLANCA DEL ROSARIO MART\xCDN-CANCH\xC9"
+  - "MADAI ROSAS-MEJ\xCDA"
+  - JORGE V. HORTA-VEGA
+  - VENANCIO VANOYE-ELIGIO
+  publisher: Zootaxa
+  date: '2021-11-25'
+  link: https://doi.org/g36kwj
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.046.0309
+  title: Richness of Butterfly1 Species Associated with Different Habitats in Northeastern
+    Mexico
+  authors:
+  - "Griselda Gaona-Garc\xEDa"
+  - "H\xE9ctor A. Garza-Torres"
+  - Salvador Ordaz-Silva
+  - "Madai Rosas-Mej\xEDa"
+  - "Julio C. Chac\xF3n-Hern\xE1ndez"
+  publisher: Southwestern Entomologist
+  date: '2021-09-29'
+  link: https://doi.org/g8x4hk
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18474/jes20-91
+  title: 'First Report of <i>Caryobruchus gleditsiae</i> (Coleoptera: Chrysomelidae)
+    on <i>Brahea berlandieri</i> in Northeast Mexico'
+  authors:
+  - Francisco Reyes-Zepeda
+  - "Cristian D. Marez-L\xF3pez"
+  - "Madai Rosas-Mej\xEDa"
+  - Salvador Ordaz-Silva
+  - "Agust\xEDn Hern\xE1ndez-Ju\xE1rez"
+  - "Julio C. Chac\xF3n-Hern\xE1ndez"
+  publisher: Journal of Entomological Science
+  date: '2021-09-22'
+  link: https://doi.org/g8x4hm
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.046.0220
+  title: "Digestibilidad de Prote\xEDnas de Atta mexicana1 (Smith), Pterophylla beltrani2\
+    \ (Bol\xEDvar y Bol\xEDvar), y Sphenarium purpurascens3 (Charpentier)"
+  authors:
+  - Oscar Acosta-Cabrera
+  - "Itzc\xF3atl Mart\xEDnez-S\xE1nchez"
+  - "Madai Rosas-Mej\xEDa"
+  - "Mar\xEDa Cruz Ju\xE1rez-Arag\xF3n"
+  - "Leonardo Uriel Arellano-M\xE9ndez"
+  - Jorge Ariel Torres-Castillo
+  publisher: Southwestern Entomologist
+  date: '2021-06-29'
+  link: https://doi.org/g8x4hn
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3897/bdj.9.e60630.figure1
+  title: "Figure 1 from: Aguilar-M\xE9ndez MJ, Rosas-Mej\xEDa M, V\xE1squez-Bola\xF1\
+    os M, Gonz\xE1lez-Hern\xE1ndez GA, Janda M (2021) New distributional records for\
+    \ ants and the evaluation of ant species richness and endemism patterns in Mexico.\
+    \ Biodiversity Data Journal 9: e60630. https://doi.org/10.3897/BDJ.9.e60630"
+  authors:
+  - "Mario J. Aguilar-M\xE9ndez"
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Gloria Ang\xE9lica Gonz\xE1lez-Hern\xE1ndez"
+  - Milan Janda
+  publisher: Pensoft Publishers
+  date: '2021-05-10'
+  link: https://doi.org/g8x4hp
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3897/bdj.9.e60630.figure2
+  title: "Figure 2 from: Aguilar-M\xE9ndez MJ, Rosas-Mej\xEDa M, V\xE1squez-Bola\xF1\
+    os M, Gonz\xE1lez-Hern\xE1ndez GA, Janda M (2021) New distributional records for\
+    \ ants and the evaluation of ant species richness and endemism patterns in Mexico.\
+    \ Biodiversity Data Journal 9: e60630. https://doi.org/10.3897/BDJ.9.e60630"
+  authors:
+  - "Mario J. Aguilar-M\xE9ndez"
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Gloria Ang\xE9lica Gonz\xE1lez-Hern\xE1ndez"
+  - Milan Janda
+  publisher: Pensoft Publishers
+  date: '2021-05-10'
+  link: https://doi.org/g8x4hq
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3897/bdj.9.e60630.figure3
+  title: "Figure 3 from: Aguilar-M\xE9ndez MJ, Rosas-Mej\xEDa M, V\xE1squez-Bola\xF1\
+    os M, Gonz\xE1lez-Hern\xE1ndez GA, Janda M (2021) New distributional records for\
+    \ ants and the evaluation of ant species richness and endemism patterns in Mexico.\
+    \ Biodiversity Data Journal 9: e60630. https://doi.org/10.3897/BDJ.9.e60630"
+  authors:
+  - "Mario J. Aguilar-M\xE9ndez"
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Gloria Ang\xE9lica Gonz\xE1lez-Hern\xE1ndez"
+  - Milan Janda
+  publisher: Pensoft Publishers
+  date: '2021-05-10'
+  link: https://doi.org/g8x4hr
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.045.0430
+  title: Coleoptera and Hymenoptera Associated with Orchids at el Cielo, Mexico
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  - Venancio Vanoye-Eligio
+  - Edilia De La Rosa-Manzano
+  publisher: Southwestern Entomologist
+  date: '2021-01-11'
+  link: https://doi.org/g8x4hs
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18474/0749-8004-55.3.433
+  title: 'Four New Occurrences of Fungus-Growing Ants (Hymenoptera: Formicidae) in
+    Agroecosystems of Tamaulipas State in Northeastern Mexico'
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  - "Griselda Gaona-Garc\xEDa"
+  - "Julio Cesar Chac\xF3n Hern\xE1ndez"
+  - Sandra Mora-Ravelo
+  - Venancio Vanoye-Eligio
+  publisher: Journal of Entomological Science
+  date: '2020-07-27'
+  link: https://doi.org/g8x4ht
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18474/0749-8004-55.3.366
+  title: Review of Occurrence of Vespoidea (Hymenoptera) in the State of Campeche,
+    Mexico
+  authors:
+  - Maximiliano Vanoye-Eligio
+  - "Jorge V\xEDctor HortaVega"
+  - Venancio Vanoye-Eligio
+  - "Madai Rosas-Mej\xEDa"
+  - "Ludwin Jaime Estrada Ram\xEDrez"
+  publisher: Journal of Entomological Science
+  date: '2020-07-27'
+  link: https://doi.org/g8x4hv
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.045.0214
+  title: Value of a Heterogeneous Urban Green Space for Ant1 Diversity in a Highland
+    City in Central Eastern Mexico
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  - "Carlos Llarena-Hern\xE1ndez"
+  - "Rosal\xEDa N\xFA\xF1ez-Pastrana"
+  - Venancio Vanoye-Eligio
+  - Ricardo Serna-Lagunes
+  - "Miguel A. Garc\xEDa-Mart\xEDnez"
+  publisher: Southwestern Entomologist
+  date: '2020-06-23'
+  link: https://doi.org/g8x4hw
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21829/azm.2020.3612250
+  title: "Hormigas (Hymenoptera: Formicidae) del estado de Sinaloa, M\xE9xico"
+  authors:
+  - "Mada\xED Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Griselda Gaona Garc\xEDa"
+  - Venancio Vanoye-Eligio
+  publisher: "ACTA ZOOL\xD3GICA MEXICANA (N.S.)"
+  date: '2020-06-16'
+  link: https://doi.org/g8x4hx
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1653/024.103.0421
+  title: 'Myrmecological Fauna (Hymenoptera: Formicidae) Collected with Multilure-Type
+    Traps in a Neotropical Transitional Region from Northeastern Mexico'
+  authors:
+  - Venancio Vanoye-Eligio
+  - "Mart\xEDn Berrones-Morales"
+  - "Madai Rosas-Mej\xEDa"
+  publisher: Florida Entomologist
+  date: '2020-04-08'
+  link: https://doi.org/g8x4hz
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18474/0749-8004-55.2.286
+  title: 'Two New Hosts of <i>Oligonychus punicae</i> (Acari: Tetranychidae) in Northeastern
+    Mexico: <i>Trichilia havanensis</i> (Meliaceae) and <i>Pithecellobium dulce</i>
+    (Fabaceae)'
+  authors:
+  - "Julio C. Chac\xF3n-Hern\xE1ndez"
+  - "Jos\xE9 I. Monjar\xE1s-Barrera"
+  - Arturo Mora-Olivo
+  - Venancio Vanoye-Eligio
+  - "Madai Rosas-Mej\xEDa"
+  - Francisco Reyes-Zepeda
+  publisher: Journal of Entomological Science
+  date: '2020-04-01'
+  link: https://doi.org/g8x4h2
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.18474/JES18-80
+  title: 'Occurrence of <i>Camponotus striatus</i> (Hymenoptera: Formicidae) Associated
+    with <i>Tripsacum dactyloides</i> (Poales: Poaceae) in Northeastern Mexico'
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  - Venancio Vanoye-Eligio
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Manuel Lara-Villal\xF3n"
+  publisher: Journal of Entomological Science
+  date: '2019-01-01'
+  link: https://doi.org/g8x4h3
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.cropro.2019.104858
+  title: A spatio-temporal approach for the occurrence of traps capturing sexually
+    mature Anastrepha ludens females over an extensive citrus area in Mexico
+  authors:
+  - Venancio Vanoye-Eligio
+  - "Mada\xED Rosas-Mej\xEDa"
+  - "Mario Rocandio-Rodr\xEDguez"
+  - Maximiliano Vanoye-Eligio
+  - "Juana Mar\xEDa Coronado-Blanco"
+  publisher: Crop Protection
+  date: '2019-10-01'
+  link: https://doi.org/grtnpx
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/eea.12800
+  title: Analysis of temporal fluctuations in numbers of sexually mature <i>Anastrepha
+    ludens</i> females over an extensive citrus area in northeastern Mexico
+  authors:
+  - "Venancio Vanoye\u2010Eligio"
+  - "Mar\xEDa de la Luz V\xE1zquez\u2010Sauceda"
+  - "Mada\xED Rosas\u2010Mej\xEDa"
+  - Alicia Vera
+  - "Dora Elia Cort\xE9s\u2010Hern\xE1ndez"
+  - "Mario Rocandio\u2010Rodr\xEDguez"
+  publisher: Entomologia Experimentalis et Applicata
+  date: '2019-06-01'
+  link: https://doi.org/grtnp3
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-030-11262-2_10
+  title: "Diversity and Community Structure of Ants in the Cuatro Ci\xE9negas Basin,\
+    \ Coahuila, Mexico"
+  authors:
+  - Milan Janda
+  - "Madai Rosas-Mej\xEDa"
+  - Pablo Corcuera
+  - "Mario Josu\xE9 Aguilar-M\xE9ndez"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - Yuliza Tafoya-Alvarado
+  publisher: "Cuatro Ci\xE9negas Basin: An Endangered Hyperdiverse Oasis"
+  date: '2019-01-01'
+  link: https://doi.org/g8x4h4
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.13102/sociobiology.v66i3.4264
+  title: 'Diversity of Ants (Hymenoptera: Formicidae) in a Sub-Montane and Sub-Tropical
+    Cityscape of Northeastern Mexico'
+  authors:
+  - "Miguel Angel Garc\xEDa-Mart\xEDnez"
+  - Venancio Vanoye-Eligio
+  - Otto Raul Leyva-Ovalle
+  - "Pedro Zetina-C\xF3rdoba"
+  - "Mario Josu\xE9 Aguilar-M\xE9ndez"
+  - "Madai Rosas Mej\xEDa"
+  publisher: Sociobiology
+  date: '2019-11-14'
+  link: https://doi.org/g8x4h5
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.044.0221
+  title: "Nuevos Registros de Especies de Hormigas1 para el Estado de Sinaloa, M\xE9\
+    xico"
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Griselda Gaona-Garc\xEDa"
+  - y Venancio Vanoye-Eligio
+  publisher: Southwestern Entomologist
+  date: '2019-07-01'
+  link: https://doi.org/g8x4h6
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15666/aeer/1703_56035617
+  title: REMOVING ARSENIC, COPPER AND IRON FROM SEWAGE SLUDGE WITH REED (Phragmites
+    australis)
+  authors:
+  - "C CORT\xC9S-TORRES"
+  - L BARRIENTOS-LOZANO
+  - P ALMAGUER-SIERRA
+  - "M ROSAS-MEJ\xCDA"
+  - "M ROCANDIO-RODR\xCDGUEZ"
+  - "A ALARC\xD3N"
+  - S G MORA-RAVELO
+  publisher: Applied Ecology and Environmental Research
+  date: '2019-01-01'
+  link: https://doi.org/gnjp96
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3958/059.043.0225
+  title: First Report of the Exotic Ant <i>Monomorium pharaonis</i> <sup /> from Tamaulipas
+    State, Mexico
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Griselda Gaona-Garc\xEDa"
+  - Venancio Vanoye-Eligio
+  publisher: Southwestern Entomologist
+  date: '2018-06-01'
+  link: https://doi.org/g8x4h7
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21829/azm.2015.312551
+  title: "Hormigas (hymenoptera: formicidae) asociadas a palma camedor (Chamedorea\
+    \ radicalis Mart.) en el bosque tropical, G\xF3mez Far\xEDas, Tamaulipas, M\xE9\
+    xico"
+  authors:
+  - "Manuel Lara-Villal\xF3n"
+  - "Madai Rosas-Mej\xEDa"
+  - "Patricia Rojas-Fern\xE1ndez"
+  - Pedro Reyes-Castillo
+  publisher: "ACTA ZOOL\xD3GICA MEXICANA (N.S.)"
+  date: '2015-08-16'
+  link: https://doi.org/g8x4h8
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21829/azm.2015.312985
+  title: 'Preferencias entre cinco carbohidratos en Pheidole bilimeki (Hymenoptera:
+    Formicidae)'
+  authors:
+  - "Madai Rosas-Mej\xEDa"
+  - Alfonso Correa-Sandoval
+  - Crystian Sadiel Venegas-Barrera
+  - "Jorge V\xEDctor Horta-Vega"
+  publisher: "ACTA ZOOL\xD3GICA MEXICANA (N.S.)"
+  date: '2015-08-16'
+  link: https://doi.org/g8x4h9
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
+  authors:
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml

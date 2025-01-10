@@ -18,6 +18,10 @@ msc:
   icon: fa-solid fa-graduation-cap
   description: Masters student
 
+grad:
+  icon: fa-solid fa-graduation-cap
+  description: Graduate student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
