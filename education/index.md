@@ -44,6 +44,20 @@ Educational posters faturing ants from various regions of Melanesia and Mexico. 
   <img class="poster" src="../images/introduced_ants_NG (2).jpg">
   <a href="../images/EX_1012_Poster.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
   </div>  
+
+  <div>
+<h4>Exotic ants in Mexico (in Spanish)</h4>  
+<p>Leaflet of exotic ants in Mexico </p>
+  <img class="poster" src="../images/leaflet_hormigas_exoticas_mx.jpg">
+  <a href="../images/leaflet_hormigas_exoticas_MX_full.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
+  </div>  
+
+  <div>
+<h4>Introduced Ants in Mexico (in Spanish)</h4>  
+<p>Poster of different species of introduced ants in Mexico </p>
+  <img class="poster" src="../images/poster_hormigas_invasoras_mx.jpg">
+  <a href="../images/poster_hormigas_invasoras_MX_A2.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
+  </div>  
   
 </article>
 

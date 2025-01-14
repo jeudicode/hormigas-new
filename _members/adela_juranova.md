@@ -1,7 +1,7 @@
 ---
 name: Adéla Juráňová
 image: images/adela.jpg
-role: phd
+role: graduate
 affiliation: Palacký University Olomouc
 aliases:
 links:

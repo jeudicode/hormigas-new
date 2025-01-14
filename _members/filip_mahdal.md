@@ -1,7 +1,7 @@
 ---
 name: Filip Mahdal
 image: images/filip.jpg
-role: grad
+role: graduate
 affiliation: Palacký University Olomouc
 aliases:
   - 

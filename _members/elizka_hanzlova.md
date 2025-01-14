@@ -1,7 +1,7 @@
 ---
 name:  Eliška HANZLOVÁ
 image: images/elizka.jpg
-role: grad
+role: graduate
 affiliation: Palacký University Olomouc
 aliases:
   -  Eliška HANZLOVÁ

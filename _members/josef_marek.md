@@ -1,7 +1,7 @@
 ---
 name: Josef Marek 
 image: images/josef.jpg
-role: phd
+role: graduate
 affiliation: Palacký University Olomouc
 aliases:
 links:
