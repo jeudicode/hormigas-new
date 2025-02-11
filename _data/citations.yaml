@@ -1,68 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1007/s00040-024-00974-3
-  title: Colony life history of the tropical arboreal ant, Cephalotes goniodontus
-    De Andrade, 1999
-  authors:
-  - I. A. E. Butler
-  - T. Butterfield
-  - M. Janda
-  - D. M. Gordon
-  publisher: Insectes Sociaux
-  date: '2024-06-27'
-  link: https://doi.org/g42hfr
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pone.0308698
-  title: Phylogenetic structure of moth communities (Geometridae, Lepidoptera) along
-    a complete rainforest elevational gradient in Papua New Guinea
-  authors:
-  - Sentiko Ibalim
-  - Pagi S. Toko
-  - Simon T. Segar
-  - Katayo Sagata
-  - Bonny Koane
-  - Scott E. Miller
-  - Vojtech Novotny
-  - Milan Janda
-  publisher: PLOS ONE
-  date: '2024-08-12'
-  link: https://doi.org/g42hf5
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/btp.13295
-  title: "Leaf litter weevil richness increases with elevation in a tropical\u2013\
-    temperate transitional forest in El Cielo Biosphere Reserve, northeastern Mexico"
-  authors:
-  - "Dami\xE1n Villase\xF1or\u2010Amador"
-  - Milan Janda
-  - "Madai Rosas\u2010Mej\xEDa"
-  - "Fatima Magdalena Sandoval\u2010Becerra"
-  - Juan J. Morrone
-  publisher: Biotropica
-  date: '2024-01-07'
-  link: https://doi.org/g42hgm
-  orcid: 0000-0002-6815-7122
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
-  madai-rosas: true
-- id: doi:10.1111/mec.16657
-  title: 'Becoming urban: How city life shapes the social structure and genetics of
-    ants'
-  authors:
-  - Milan Janda
-  publisher: Molecular Ecology
-  date: '2022-08-25'
-  link: https://doi.org/gzqw7r
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s10530-020-02423-1
   title: 'Alien ants (Hymenoptera: Formicidae) in Mexico: the first database of records'
   authors:
@@ -1034,6 +971,22 @@
   madai-rosas: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/btp.13295
+  title: "Leaf litter weevil richness increases with elevation in a tropical\u2013\
+    temperate transitional forest in El Cielo Biosphere Reserve, northeastern Mexico"
+  authors:
+  - "Dami\xE1n Villase\xF1or\u2010Amador"
+  - Milan Janda
+  - "Madai Rosas\u2010Mej\xEDa"
+  - "Fatima Magdalena Sandoval\u2010Becerra"
+  - Juan J. Morrone
+  publisher: Biotropica
+  date: '2024-01-07'
+  link: https://doi.org/g42hgm
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3958/059.048.0325
   title: 'Solenopsis geminata1: First Report as a Persistent Pest of Manzano Pepper
     Harvested in the Northern Highlands of Puebla, Mexico'
@@ -1620,6 +1573,132 @@
   link: https://doi.org/g8x4h9
   orcid: 0000-0002-6815-7122
   madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/aps3.11621
+  title: "Expression\u2010based machine learning models for predicting plant tissue\
+    \ identity"
+  authors:
+  - Sourabh Palande
+  - Jeremy Arsenault
+  - "Patricia Basurto\u2010Lozada"
+  - Andrew Bleich
+  - Brianna N. I. Brown
+  - Sophia F. Buysse
+  - Noelle A. Connors
+  - Sikta Das Adhikari
+  - Kara C. Dobson
+  - "Francisco Xavier Guerra\u2010Castillo"
+  - "Maria F. Guerrero\u2010Carrillo"
+  - Sophia Harlow
+  - "H\xE9ctor Herrera\u2010Orozco"
+  - Asia T. Hightower
+  - Paulo Izquierdo
+  - MacKenzie Jacobs
+  - Nicholas A. Johnson
+  - Wendy Leuenberger
+  - "Alessandro Lopez\u2010Hernandez"
+  - "Alicia Luckie\u2010Duque"
+  - "Camila Mart\xEDnez\u2010Avila"
+  - "Eddy J. Mendoza\u2010Galindo"
+  - David Cruz Plancarte
+  - Jenny M. Schuster
+  - Harry Shomer
+  - Sidney C. Sitar
+  - Anne K. Steensma
+  - Joanne Elise Thomson
+  - "Dami\xE1n Villase\xF1or\u2010Amador"
+  - Robin Waterman
+  - Brandon M. Webster
+  - Madison Whyte
+  - "Sof\xEDa Zorilla\u2010Azcu\xE9"
+  - Beronda L. Montgomery
+  - Aman Y. Husbands
+  - Arjun Krishnan
+  - Sarah Percival
+  - Elizabeth Munch
+  - Robert VanBuren
+  - Daniel H. Chitwood
+  - "Alejandra Rougon\u2010Cardoso"
+  publisher: Applications in Plant Sciences
+  date: '2024-10-19'
+  link: https://doi.org/g83j6h
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/11956860.2024.2426324
+  title: "Refuge and supplementary bamboo-based diet in capuchin monkeys (\n     \
+    \       <i>Sapajus nigritus cucullatus</i>\n            ) in association with\
+    \ habitat fragmentation and stochastic events"
+  authors:
+  - "Victoria Mart\xEDnez de Zorzi"
+  - Andrea Susana Vega
+  - Carolina Guerreiro
+  - "Dami\xE1n Villase\xF1or-Amador"
+  - "Luciana In\xE9s Oklander"
+  publisher: "\xC9coscience"
+  date: '2024-07-02'
+  link: https://doi.org/g83j6j
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anbehav.2023.10.003
+  title: Locomotor behaviour of tropical wolf spiders is affected by external temperature
+    and body size, not load bearing
+  authors:
+  - "Dami\xE1n Villase\xF1or-Amador"
+  - "Leonardo Vilas-B\xF4as M.P. de Cerqueira"
+  - "Quimey G\xF3mez"
+  - Francisca Zamora Cornejo
+  - Julia Paulucci
+  - Ignacio Escalante
+  publisher: Animal Behaviour
+  date: '2023-10-01'
+  link: https://doi.org/g83j6k
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.29057/h.v5i2.9735
+  title: "Cuando los insectos no vuelan, \xBFlas vialidades y la infraestructura urbana\
+    \ act\xFAan siempre como barreras?"
+  authors:
+  - "Dami\xE1n Villase\xF1or-Amador"
+  - "Zen\xF3n Cano-Santana"
+  publisher: Herreriana
+  date: '2023-07-05'
+  link: https://doi.org/g83j6m
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jsames.2021.103299
+  title: Bipedalism in Mexican albian lizard (squamata) and the locomotion type in
+    other cretaceous lizards
+  authors:
+  - "Dami\xE1n Villase\xF1or-Amador"
+  - "Nut Xanat Su\xE1rez"
+  - J. Alberto Cruz
+  publisher: Journal of South American Earth Sciences
+  date: '2021-08-01'
+  link: https://doi.org/g83j6n
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.05.20.20107516
+  title: 'The misleading illusion of COVID-19 confirmed case data: alternative estimates
+    and a monitoring tool'
+  authors:
+  - "Rogelio Mac\xEDas-Ord\xF3\xF1ez"
+  - "Dami\xE1n Villase\xF1or-Amador"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-25'
+  link: https://doi.org/gk6928
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128

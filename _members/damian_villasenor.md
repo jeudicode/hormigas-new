@@ -8,7 +8,6 @@ aliases:
   - Damián Villaseñor-Amador
   - D. Villaseñor-Amador
 links:
-  home-page: https://www.enesmorelia.unam.mx/directorio/dr-milan-janda/
   orcid: 0000-0002-6566-9069
 ---
 
