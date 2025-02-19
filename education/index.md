@@ -58,6 +58,13 @@ Educational posters faturing ants from various regions of Melanesia and Mexico. 
   <img class="poster" src="../images/poster_hormigas_invasoras_mx.jpg">
   <a href="../images/poster_hormigas_invasoras_MX_A2.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
   </div>  
+
+<div>
+  <h4>Ants from the Kikori delta to Southern Highlands, Papua New Guinea</h4>  
+<p>Poster of different species from Papua New Guinea's Kikori delta </p>
+  <img class="poster" src="../images/ants_kikori.jpg">
+  <a href="../images/ants_kikori.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
+  </div>  
   
 </article>
 
