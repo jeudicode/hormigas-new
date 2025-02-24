@@ -1575,6 +1575,19 @@
   madai-rosas: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/eth.13551
+  title: 'Grouped and Vibrating: The Influence of Group Size, Triggering Stimuli,
+    and Leg Loss in Bobbing in an Arachnid'
+  authors:
+  - "Dami\xE1n Villase\xF1or\u2010Amador"
+  - Ignacio Escalante
+  publisher: Ethology
+  date: '2025-02-18'
+  link: https://doi.org/g855fd
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/aps3.11621
   title: "Expression\u2010based machine learning models for predicting plant tissue\
     \ identity"
