@@ -103,6 +103,28 @@ nav > a:hover {
   header:not([data-big]) {
     justify-content: flex-end;
   }
+  header:not([data-big]) .title {
+    font-size: 1rem;
+  }
+  header:not([data-big]) .nav-toggle {
+    display: flex;
+  }
+  header:not([data-big]) .nav-toggle:not(:checked) + nav {
+    display: none;
+  }
+  header:not([data-big]) nav {
+    align-items: flex-end;
+    flex-direction: column;
+    width: 100%;
+  }
+}
+@media (min-width: 701px) and (max-width: 1199px) {
+  header:not([data-big]) {
+    justify-content: flex-end;
+  }
+  header:not([data-big]) .title {
+    font-size: 1rem;
+  }
   header:not([data-big]) .nav-toggle {
     display: flex;
   }
@@ -128,7 +150,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 180px;
 }
 header[data-big] .title-text {
   flex-direction: column;

@@ -5,6 +5,7 @@ role: pi
 affiliation: UNAM ENES Morelia
 aliases:
   - Milan Janda
+  - M. Janda
 links:
   home-page: https://www.enesmorelia.unam.mx/directorio/dr-milan-janda/
   orcid: 000-0003-3038-0107

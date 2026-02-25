@@ -38,6 +38,12 @@ Educational posters faturing ants from various regions of Melanesia and Mexico. 
  <img class="poster" src="../images/Ants_Of_BG_Mt.Balbi (1).jpg">
  <a href="../images/Ants_Of_BG_Mt.Balbi.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
   </div>
+  <div>
+  <h4>Ants from the Kikori delta to Southern Highlands, Papua New Guinea</h4>  
+<p>Poster of different species from Papua New Guinea's Kikori delta </p>
+  <img class="poster" src="../images/ants_kikori.jpg">
+  <a href="../images/ants_kikori.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
+  </div>  
    <div>
 <h4>Introduced Ants in Papua New Guinea</h4>  
 <p>Poster of most important alien ants in Papua New Guinea. </p>
@@ -59,12 +65,7 @@ Educational posters faturing ants from various regions of Melanesia and Mexico. 
   <a href="../images/poster_hormigas_invasoras_MX_A2.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
   </div>  
 
-<div>
-  <h4>Ants from the Kikori delta to Southern Highlands, Papua New Guinea</h4>  
-<p>Poster of different species from Papua New Guinea's Kikori delta </p>
-  <img class="poster" src="../images/ants_kikori.jpg">
-  <a href="../images/ants_kikori.pdf" target="_blank" rel="noopener noreferrer">Download in high resolution</a>
-  </div>  
+
   
 </article>
 

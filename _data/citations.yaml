@@ -1,5 +1,119 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/isd/ixaf035
+  title: "A phylogenomic overview of the ant genus\n                    <i>Tapinoma</i>\n\
+    \                    Foerster, 1850 (Formicidae: Dolichoderinae), with the phylogeographic\
+    \ history of the ghost ant\n                    <i>Tapinoma melanocephalum</i>"
+  authors:
+  - "Oscar P\xE9rez-Flores"
+  - Michael G Branstetter
+  - John T Longino
+  - "P\xE1vel Matos-Marav\xED"
+  - Michaela Borovanska
+  - Milan Janda
+  publisher: Insect Systematics and Diversity
+  date: '2025-09-01'
+  link: https://doi.org/g9xb6d
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/2041-210x.70135
+  title: 'Navigating the seven seas of arthropod collection protocols: Metabarcoding
+    arthropod diversity in a tropical forest'
+  authors:
+  - "Daniel Souto\u2010Vilar\xF3s"
+  - "Eduardo Navarro\u2010Valencia"
+  - Ana Cecilia Zamora
+  - Yahir Campusano
+  - Greg P. A. Lamarre
+  - Filonila Perez
+  - Yacksecari Lopez
+  - Ricardo Bobadilla
+  - "Jos\xE9 Alejandro Ram\xEDrez Silva"
+  - Milan Janda
+  - Jeremy R. deWaard
+  - Maurice Leponce
+  - "H\xE9ctor Barrios"
+  - Yves Basset
+  publisher: Methods in Ecology and Evolution
+  date: '2025-08-31'
+  link: https://doi.org/g93n8m
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0327884
+  title: 'Unravelling high insect diversity and community turnover along a tropical-temperate
+    elevation gradient: A metabarcoding approach'
+  authors:
+  - "Dami\xE1n Villase\xF1or-Amador"
+  - Pilar Benites
+  - Fatima M. Sandoval-Becerra
+  - "Madai Rosas-Mej\xEDa"
+  - "Alejandro Zald\xEDvar-River\xF3n"
+  - Milan Janda
+  publisher: PLOS One
+  date: '2025-07-17'
+  link: https://doi.org/g9trz5
+  orcid: 0000-0002-6566-9069
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+  damian-villasenor: true
+- id: doi:10.1093/isd/ixaf025
+  title: 'Ant systematics: past, present, and future'
+  authors:
+  - Jill T Oberski
+  - Zachary H Griebenow
+  - Rachelle M M Adams
+  - Alan Andersen
+  - Joudellys Andrade-Silva
+  - Phillip Barden
+  - Marek Borowiec
+  - "Se\xE1n Brady"
+  - Alexandre Casadei-Ferreira
+  - "S\xE1ndor Cs\u0151sz"
+  - Amanda Martins Dias
+  - Ratnayake Kaluarachchige Sriyani Dias
+  - Rodrigo Machado Feitosa
+  - Fernando Fernandez
+  - Brian L Fisher
+  - David Emmanuel M General
+  - "Kik\xF3 Gomez"
+  - "J\xF6rg U Hammel"
+  - Peter G Hawkes
+  - Milan Janda
+  - Adam Khalife
+  - Natalia Ladino
+  - Ziv E Lieberman
+  - Andrea Lucky
+  - Mattia Menchetti
+  - "L\xEDvia Pires do Prado"
+  - Matthew M Prebus
+  - Rodolfo S Probst
+  - Aswaj Punnath
+  - Adrian Richter
+  - Sebastian Salata
+  - "Andr\xE9s F S\xE1nchez-Restrepo"
+  - Enrico Schifani
+  - Ted R Schultz
+  - "Rog\xE9rio R Silva"
+  - Jeffrey Sosa-Calvo
+  - Maria C Tocora
+  - "M\xF4nica Antunes Ulyss\xE9a"
+  - Thomas van de Kamp
+  - Wendy Y Wang
+  - Jason L Williams
+  - Gabriela Procopio Camacho
+  - Brendon E Boudinot
+  publisher: Insect Systematics and Diversity
+  date: '2025-07-01'
+  link: https://doi.org/g93n8n
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s10530-020-02423-1
   title: 'Alien ants (Hymenoptera: Formicidae) in Mexico: the first database of records'
   authors:
@@ -182,8 +296,8 @@
   file: orcid.yaml
   madai-rosas: true
 - id: doi:10.1111/geb.12867
-  title: Evolution of the latitudinal diversity gradient in the hyperdiverse ant genus
-    <i>Pheidole</i>
+  title: "Evolution of the latitudinal diversity gradient in the hyperdiverse ant\
+    \ genus\n                    <i>Pheidole</i>"
   authors:
   - Evan P. Economo
   - "Jen\u2010Pan Huang"
@@ -545,7 +659,7 @@
   - Eric Youngerman
   - Naomi E. Pierce
   publisher: Invertebrate Systematics
-  date: '2016-01-01'
+  date: '2016-03-16'
   link: https://doi.org/f8fmdj
   orcid: 0000-0003-3038-0107
   milan-janda: true
@@ -677,8 +791,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1365-2311.2010.01250.x
-  title: 'Experimental suppression of ants foraging on rainforest vegetation in New
-    Guinea: testing methods for a whole-forest manipulation of insect communities'
+  title: "Experimental suppression of ants foraging on rainforest vegetation in New\
+    \ Guinea: testing methods for a whole\u2010forest manipulation of insect communities"
   authors:
   - PETR KLIMES
   - MILAN JANDA
@@ -890,8 +1004,9 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/j.1365-2311.2003.00558.x
-  title: "Colonising aliens: caterpillars (Lepidoptera) feeding on <i>Piper aduncum</i>\
-    \ and <i>P.\u2003umbellatum</i> in rainforests of Papua New Guinea"
+  title: "Colonising aliens: caterpillars (Lepidoptera) feeding on\n             \
+    \       <i>Piper aduncum</i>\n                    and\n                    <i>P.\u2003\
+    umbellatum</i>\n                    in rainforests of Papua New Guinea"
   authors:
   - Vojtech Novotny
   - Scott. E. Miller
@@ -1575,6 +1690,68 @@
   madai-rosas: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1111/eea.70061
+  title: What Goes First? Effects of Starvation on the Body Condition of a Neotropical
+    Dung Beetle
+  authors:
+  - "Leonardo Vilas\u2010B\xF4as M. P. de Cerqueira"
+  - "Renato Portela Salom\xE3o"
+  - "Dami\xE1n Villase\xF1or\u2010Amador"
+  - Andressa Fraga Cotta
+  - Pedro Lucas Moreira de Oliveira
+  - "C\xE9sar Murilo de Albuquerque Correa"
+  publisher: Entomologia Experimentalis et Applicata
+  date: '2026-02-02'
+  link: https://doi.org/hbnzq5
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33256/35.3.243250
+  title: 'From forests to fields: habitat-driven decline of a microendemic endangered
+    salamander'
+  authors:
+  - "Carolina Mildred Rivera Gonz\xE1lez"
+  - "Jos\xE9 Alfredo Hern\xE1ndez D\xEDaz"
+  - Davi Teles
+  - "Dami\xE1n Villase\xF1or-Amador"
+  publisher: The Herpetological Journal
+  date: '2025-07-01'
+  link: https://doi.org/g9trz8
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/eth.13551
+  title: 'Grouped and Vibrating: The Influence of Group Size, Triggering Stimuli,
+    and Leg Loss in Bobbing in an Arachnid'
+  authors:
+  - "Dami\xE1n Villase\xF1or\u2010Amador"
+  - Ignacio Escalante
+  publisher: Ethology
+  date: '2025-02-18'
+  link: https://doi.org/g855fd
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.anbehav.2023.10.003
+  title: Locomotor behaviour of tropical wolf spiders is affected by external temperature
+    and body size, not load bearing
+  authors:
+  - "Dami\xE1n Villase\xF1or-Amador"
+  - "Leonardo Vilas-B\xF4as M.P. de Cerqueira"
+  - "Quimey G\xF3mez"
+  - Francisca Zamora Cornejo
+  - Julia Paulucci
+  - Ignacio Escalante
+  publisher: Animal Behaviour
+  date: '2025-03-01'
+  link: https://doi.org/g83j6k
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/aps3.11621
   title: "Expression\u2010based machine learning models for predicting plant tissue\
     \ identity"
@@ -1644,23 +1821,6 @@
   damian-villasenor: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.anbehav.2023.10.003
-  title: Locomotor behaviour of tropical wolf spiders is affected by external temperature
-    and body size, not load bearing
-  authors:
-  - "Dami\xE1n Villase\xF1or-Amador"
-  - "Leonardo Vilas-B\xF4as M.P. de Cerqueira"
-  - "Quimey G\xF3mez"
-  - Francisca Zamora Cornejo
-  - Julia Paulucci
-  - Ignacio Escalante
-  publisher: Animal Behaviour
-  date: '2023-10-01'
-  link: https://doi.org/g83j6k
-  orcid: 0000-0002-6566-9069
-  damian-villasenor: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.29057/h.v5i2.9735
   title: "Cuando los insectos no vuelan, \xBFlas vialidades y la infraestructura urbana\
     \ act\xFAan siempre como barreras?"
@@ -1694,68 +1854,40 @@
   authors:
   - "Rogelio Mac\xEDas-Ord\xF3\xF1ez"
   - "Dami\xE1n Villase\xF1or-Amador"
-  publisher: Cold Spring Harbor Laboratory
+  publisher: openRxiv
   date: '2020-05-25'
   link: https://doi.org/gk6928
   orcid: 0000-0002-6566-9069
   damian-villasenor: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1371/journal.pone.0308698
+  title: Phylogenetic structure of moth communities (Geometridae, Lepidoptera) along
+    a complete rainforest elevational gradient in Papua New Guinea
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  - Sentiko Ibalim
+  - Pagi S. Toko
+  - Simon T. Segar
+  - Katayo Sagata
+  - Bonny Koane
+  - Scott E. Miller
+  - Vojtech Novotny
+  - Milan Janda
+  publisher: PLOS ONE
+  date: '2024-08-12'
+  link: https://doi.org/g42hf5
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1007/s00040-024-00974-3
+  title: Colony life history of the tropical arboreal ant, Cephalotes goniodontus
+    De Andrade, 1999
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - I. A. E. Butler
+  - T. Butterfield
+  - M. Janda
+  - D. M. Gordon
+  publisher: Insectes Sociaux
+  date: '2024-06-27'
+  link: https://doi.org/g42hfr
   plugin: sources.py
   file: sources.yaml

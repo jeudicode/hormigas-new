@@ -2,7 +2,7 @@
 name: Dra. Madai Rosas Mejía
 image: images/madai.jpg
 role: pi
-affiliation: UNAM ENES Morelia
+affiliation: Universidad Autónoma de Tamaulipas
 aliases:
   - Madai Rosas
 links:

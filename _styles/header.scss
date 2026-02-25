@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo-big: 80px;
+$logo-big: 180px;
 $logo: 40px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -113,6 +113,29 @@ nav > a:hover {
 
 header:not([data-big]) {
   @media (max-width: $collapse) {
+    .title {
+      font-size: 1rem;
+    }
+    justify-content: flex-end;
+
+    .nav-toggle {
+      display: flex;
+    }
+
+    .nav-toggle:not(:checked) + nav {
+      display: none;
+    }
+
+    nav {
+      align-items: flex-end;
+      flex-direction: column;
+      width: 100%;
+    }
+  }
+  @media (min-width: 701px) and (max-width: 1199px) {
+    .title {
+      font-size: 1rem;
+    }
     justify-content: flex-end;
 
     .nav-toggle {
