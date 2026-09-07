@@ -18,31 +18,6 @@
   milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1111/2041-210x.70135
-  title: 'Navigating the seven seas of arthropod collection protocols: Metabarcoding
-    arthropod diversity in a tropical forest'
-  authors:
-  - "Daniel Souto\u2010Vilar\xF3s"
-  - "Eduardo Navarro\u2010Valencia"
-  - Ana Cecilia Zamora
-  - Yahir Campusano
-  - Greg P. A. Lamarre
-  - Filonila Perez
-  - Yacksecari Lopez
-  - Ricardo Bobadilla
-  - "Jos\xE9 Alejandro Ram\xEDrez Silva"
-  - Milan Janda
-  - Jeremy R. deWaard
-  - Maurice Leponce
-  - "H\xE9ctor Barrios"
-  - Yves Basset
-  publisher: Methods in Ecology and Evolution
-  date: '2025-08-31'
-  link: https://doi.org/g93n8m
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1371/journal.pone.0327884
   title: 'Unravelling high insect diversity and community turnover along a tropical-temperate
     elevation gradient: A metabarcoding approach'
@@ -61,59 +36,6 @@
   plugin: orcid.py
   file: orcid.yaml
   damian-villasenor: true
-- id: doi:10.1093/isd/ixaf025
-  title: 'Ant systematics: past, present, and future'
-  authors:
-  - Jill T Oberski
-  - Zachary H Griebenow
-  - Rachelle M M Adams
-  - Alan Andersen
-  - Joudellys Andrade-Silva
-  - Phillip Barden
-  - Marek Borowiec
-  - "Se\xE1n Brady"
-  - Alexandre Casadei-Ferreira
-  - "S\xE1ndor Cs\u0151sz"
-  - Amanda Martins Dias
-  - Ratnayake Kaluarachchige Sriyani Dias
-  - Rodrigo Machado Feitosa
-  - Fernando Fernandez
-  - Brian L Fisher
-  - David Emmanuel M General
-  - "Kik\xF3 Gomez"
-  - "J\xF6rg U Hammel"
-  - Peter G Hawkes
-  - Milan Janda
-  - Adam Khalife
-  - Natalia Ladino
-  - Ziv E Lieberman
-  - Andrea Lucky
-  - Mattia Menchetti
-  - "L\xEDvia Pires do Prado"
-  - Matthew M Prebus
-  - Rodolfo S Probst
-  - Aswaj Punnath
-  - Adrian Richter
-  - Sebastian Salata
-  - "Andr\xE9s F S\xE1nchez-Restrepo"
-  - Enrico Schifani
-  - Ted R Schultz
-  - "Rog\xE9rio R Silva"
-  - Jeffrey Sosa-Calvo
-  - Maria C Tocora
-  - "M\xF4nica Antunes Ulyss\xE9a"
-  - Thomas van de Kamp
-  - Wendy Y Wang
-  - Jason L Williams
-  - Gabriela Procopio Camacho
-  - Brendon E Boudinot
-  publisher: Insect Systematics and Diversity
-  date: '2025-07-01'
-  link: https://doi.org/g93n8n
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s10530-020-02423-1
   title: 'Alien ants (Hymenoptera: Formicidae) in Mexico: the first database of records'
   authors:
@@ -1023,6 +945,57 @@
   milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1007/s10531-026-03452-3
+  title: 'Geographic potential of the introduced ant species (Hymenoptera: Formicidae)
+    in Mexico, particularly in Protected Areas'
+  authors:
+  - "Angela Nava-Bola\xF1os"
+  - Luis Osorio-Olvera
+  - Maya Rocha-Ortega
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Gabriela Casta\xF1o-Meneses"
+  publisher: Biodiversity and Conservation
+  date: '2026-08-26'
+  link: https://doi.org/hcg8k9
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.29057/h.v8i2.16379
+  title: "Perspectivas sobre las hormigas ex\xF3ticas e invasoras en M\xE9xico"
+  authors:
+  - "Hibraim A. P\xE9rez Mendoza"
+  - "Carlos Z. Santill\xE1n Garc\xEDa"
+  - Marco E. Solis Sotelo
+  - Leticia Rios Casanova
+  - "Madai Rosas Mej\xEDa"
+  - David A. Prieto Torres
+  - "Tania Garrido Gardu\xF1o"
+  publisher: Herreriana
+  date: '2026-07-05'
+  link: https://doi.org/hb9kdf
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21829/azm.2026.4212796
+  title: "Diversificaci\xF3n del cultivo de chayote y su repercusi\xF3n en la diversidad\
+    \ y grupos funcionales de hormigas en el centro de Veracruz"
+  authors:
+  - "Nadia Luz Garc\xEDa Olivos"
+  - Madai Rosas Mejia
+  - Yaqueline Antonia Gheno Heredia
+  - Norma Berzabel Zilli Ponce
+  - Alma Berenice Morales Guzman
+  - "Miguel \xC1ngel Garc\xEDa Mart\xEDnez"
+  publisher: "ACTA ZOOL\xD3GICA MEXICANA (N.S.)"
+  date: '2026-06-03'
+  link: https://doi.org/hb6v57
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00040-024-00993-0
   title: 'Indicator ants (Hymenoptera: Formicidae) of disturbance in Mexico'
   authors:
@@ -1224,17 +1197,17 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.25100/socolen.v48i2.11980
-  title: "Primeros registros de dos especies y dos g\xE9neros de hormigas (Hymenoptera:\
-    \ Formicidae) colectadas en una  zona semiurbana de Yucat\xE1n, M\xE9xico"
+  title: 'First Records of Two Species and Two Genera of Ants (Hymenoptera: Formicidae)
+    Collected in A Semi-Urban Area from Yucatan, Mexico'
   authors:
   - Alan Cano-Ravell
-  - "Madai Rosas-Mej\xEDa"
-  - "Miguel V\xE1squez-Bola\xF1os"
-  - "Horacio Salom\xF3n Ballina-G\xF3mez"
-  - "Ana Luz Tuyin-D\xEDaz"
-  - "Guadalupe del Carmen Reyes-Sol\xEDs"
+  - "Madai Rosas-Mej\xCDA"
+  - "Miguel V\xC1Squez-Bola\xD1Os"
+  - "Horacio Salom\xD3N Ballina-G\xD3Mez"
+  - "Ana Luz Tuyin-D\xCDAz"
+  - "Guadalupe Del Carmen Reyes-Sol\xCDS"
   publisher: "Revista Colombiana de Entomolog\xEDa"
-  date: '2022-12-05'
+  date: '2022-07-01'
   link: https://doi.org/g8x4hd
   orcid: 0000-0002-6815-7122
   madai-rosas: true
@@ -1273,14 +1246,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.25100/socolen.v48i1.11505
-  title: "Primer reporte de Cephalonomia gallicola (Ashmead) (Hymenoptera: Bethylidae)\
-    \ en M\xE9xico: Un caso de picaduras en humanos"
+  title: "First Report of\n                    <i>Cephalonomia Gallicola</i>\n   \
+    \                 (Ashmead) (Hymenoptera, Bethylidae) In Mexico: A Case Of Stings\
+    \ In Humans"
   authors:
-  - "Miguel \xC1. Garc\xEDa-Mart\xEDnez"
+  - "Miguel A. Garc\xCDA-Mart\xCDNez"
   - Francisco Reyes-Zepeda
-  - "Madai Rosas-Mej\xEDa"
+  - "Madai Rosas-Mej\xCDA"
   publisher: "Revista Colombiana de Entomolog\xEDa"
-  date: '2022-04-07'
+  date: '2022-01-01'
   link: https://doi.org/g8x4hh
   orcid: 0000-0002-6815-7122
   madai-rosas: true
@@ -1688,6 +1662,20 @@
   link: https://doi.org/g8x4h9
   orcid: 0000-0002-6815-7122
   madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/aec.70286
+  title: 'When Resources Become Limited: Trophic Niches Shift From Generalism to Specialization
+    in Dung Beetles (Coleoptera: Scarabaeinae)'
+  authors:
+  - "Leonardo Vilas\u2010B\xF4as M. P. de Cerqueira"
+  - "Dami\xE1n Villase\xF1or\u2010Amador"
+  - "C\xE9sar Murilo de Albuquerque Correa"
+  publisher: Austral Ecology
+  date: '2026-09-01'
+  link: https://doi.org/hchtww
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/eea.70061
