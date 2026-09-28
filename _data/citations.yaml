@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.17161/bi.v20i2.24878
+  title: Spatio-temporal patterns of arthropod leaf-litter communities in protected
+    Mexican tropical deciduous forests revealed by metabarcoding
+  authors:
+  - Pilar Benites
+  - "Karina Astudillo-Pav\xF3n"
+  - Milan Janda
+  - "Flavio Z\xE1rate-Hern\xE1ndez"
+  - "Natalia Bautista-Brice\xF1o"
+  - "Ang\xE9lica M. Penteado-Dias"
+  - "Alejandro Zald\xEDvar-River\xF3n"
+  - "Antonio Garc\xEDa-Bautista"
+  publisher: Biodiversity Informatics
+  date: '2026-09-14'
+  link: https://doi.org/hcj8r5
+  orcid: 0000-0003-3038-0107
+  milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/isd/ixaf035
   title: "A phylogenomic overview of the ant genus\n                    <i>Tapinoma</i>\n\
     \                    Foerster, 1850 (Formicidae: Dolichoderinae), with the phylogeographic\
@@ -14,31 +33,6 @@
   publisher: Insect Systematics and Diversity
   date: '2025-09-01'
   link: https://doi.org/g9xb6d
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1111/2041-210x.70135
-  title: 'Navigating the seven seas of arthropod collection protocols: Metabarcoding
-    arthropod diversity in a tropical forest'
-  authors:
-  - "Daniel Souto\u2010Vilar\xF3s"
-  - "Eduardo Navarro\u2010Valencia"
-  - Ana Cecilia Zamora
-  - Yahir Campusano
-  - Greg P. A. Lamarre
-  - Filonila Perez
-  - Yacksecari Lopez
-  - Ricardo Bobadilla
-  - "Jos\xE9 Alejandro Ram\xEDrez Silva"
-  - Milan Janda
-  - Jeremy R. deWaard
-  - Maurice Leponce
-  - "H\xE9ctor Barrios"
-  - Yves Basset
-  publisher: Methods in Ecology and Evolution
-  date: '2025-08-31'
-  link: https://doi.org/g93n8m
   orcid: 0000-0003-3038-0107
   milan-janda: true
   plugin: orcid.py
@@ -61,59 +55,6 @@
   plugin: orcid.py
   file: orcid.yaml
   damian-villasenor: true
-- id: doi:10.1093/isd/ixaf025
-  title: 'Ant systematics: past, present, and future'
-  authors:
-  - Jill T Oberski
-  - Zachary H Griebenow
-  - Rachelle M M Adams
-  - Alan Andersen
-  - Joudellys Andrade-Silva
-  - Phillip Barden
-  - Marek Borowiec
-  - "Se\xE1n Brady"
-  - Alexandre Casadei-Ferreira
-  - "S\xE1ndor Cs\u0151sz"
-  - Amanda Martins Dias
-  - Ratnayake Kaluarachchige Sriyani Dias
-  - Rodrigo Machado Feitosa
-  - Fernando Fernandez
-  - Brian L Fisher
-  - David Emmanuel M General
-  - "Kik\xF3 Gomez"
-  - "J\xF6rg U Hammel"
-  - Peter G Hawkes
-  - Milan Janda
-  - Adam Khalife
-  - Natalia Ladino
-  - Ziv E Lieberman
-  - Andrea Lucky
-  - Mattia Menchetti
-  - "L\xEDvia Pires do Prado"
-  - Matthew M Prebus
-  - Rodolfo S Probst
-  - Aswaj Punnath
-  - Adrian Richter
-  - Sebastian Salata
-  - "Andr\xE9s F S\xE1nchez-Restrepo"
-  - Enrico Schifani
-  - Ted R Schultz
-  - "Rog\xE9rio R Silva"
-  - Jeffrey Sosa-Calvo
-  - Maria C Tocora
-  - "M\xF4nica Antunes Ulyss\xE9a"
-  - Thomas van de Kamp
-  - Wendy Y Wang
-  - Jason L Williams
-  - Gabriela Procopio Camacho
-  - Brendon E Boudinot
-  publisher: Insect Systematics and Diversity
-  date: '2025-07-01'
-  link: https://doi.org/g93n8n
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1007/s10530-020-02423-1
   title: 'Alien ants (Hymenoptera: Formicidae) in Mexico: the first database of records'
   authors:
@@ -162,28 +103,6 @@
   publisher: Ecological Entomology
   date: '2020-11-29'
   link: https://doi.org/g42hhf
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pbio.3001031
-  title: Functional innovation promotes diversification of form in the evolution of
-    an ultrafast trap-jaw mechanism in ants
-  authors:
-  - Douglas B. Booher
-  - Joshua C. Gibson
-  - Cong Liu
-  - John T. Longino
-  - Brian L. Fisher
-  - Milan Janda
-  - Nitish Narula
-  - Evropi Toulkeridou
-  - Alexander S. Mikheyev
-  - Andrew V. Suarez
-  - Evan P. Economo
-  publisher: PLOS Biology
-  date: '2021-03-02'
-  link: https://doi.org/g42hhx
   orcid: 0000-0003-3038-0107
   milan-janda: true
   plugin: orcid.py
@@ -783,7 +702,7 @@
   - James Whitfield
   - Monty Wood
   - Xin Zhou
-  publisher: PLoS ONE
+  publisher: PLOS ONE
   date: '2012-05-02'
   link: https://doi.org/f3xqnr
   orcid: 0000-0003-3038-0107
@@ -952,23 +871,6 @@
   milan-janda: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1126/science.1129237
-  title: Why Are There So Many Species of Herbivorous Insects in Tropical Rainforests?
-  authors:
-  - Vojtech Novotny
-  - Pavel Drozd
-  - Scott E. Miller
-  - Miroslav Kulfan
-  - Milan Janda
-  - Yves Basset
-  - George D. Weiblen
-  publisher: Science
-  date: '2006-08-25'
-  link: https://doi.org/c4bpdk
-  orcid: 0000-0003-3038-0107
-  milan-janda: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/j.ympev.2004.07.012
   title: 'Phylogeny of Lasius ants based on mitochondrial DNA and morphology, and
     the evolution of social parasitism in the Lasiini (Hymenoptera: Formicidae)'
@@ -1021,6 +923,57 @@
   link: https://doi.org/fch4mm
   orcid: 0000-0003-3038-0107
   milan-janda: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s10531-026-03452-3
+  title: 'Geographic potential of the introduced ant species (Hymenoptera: Formicidae)
+    in Mexico, particularly in Protected Areas'
+  authors:
+  - "Angela Nava-Bola\xF1os"
+  - Luis Osorio-Olvera
+  - Maya Rocha-Ortega
+  - "Madai Rosas-Mej\xEDa"
+  - "Miguel V\xE1squez-Bola\xF1os"
+  - "Gabriela Casta\xF1o-Meneses"
+  publisher: Biodiversity and Conservation
+  date: '2026-08-26'
+  link: https://doi.org/hcg8k9
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.29057/h.v8i2.16379
+  title: "Perspectivas sobre las hormigas ex\xF3ticas e invasoras en M\xE9xico"
+  authors:
+  - "Hibraim A. P\xE9rez Mendoza"
+  - "Carlos Z. Santill\xE1n Garc\xEDa"
+  - Marco E. Solis Sotelo
+  - Leticia Rios Casanova
+  - "Madai Rosas Mej\xEDa"
+  - David A. Prieto Torres
+  - "Tania Garrido Gardu\xF1o"
+  publisher: Herreriana
+  date: '2026-07-05'
+  link: https://doi.org/hb9kdf
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21829/azm.2026.4212796
+  title: "Diversificaci\xF3n del cultivo de chayote y su repercusi\xF3n en la diversidad\
+    \ y grupos funcionales de hormigas en el centro de Veracruz"
+  authors:
+  - "Nadia Luz Garc\xEDa Olivos"
+  - Madai Rosas Mejia
+  - Yaqueline Antonia Gheno Heredia
+  - Norma Berzabel Zilli Ponce
+  - Alma Berenice Morales Guzman
+  - "Miguel \xC1ngel Garc\xEDa Mart\xEDnez"
+  publisher: "ACTA ZOOL\xD3GICA MEXICANA (N.S.)"
+  date: '2026-06-03'
+  link: https://doi.org/hb6v57
+  orcid: 0000-0002-6815-7122
+  madai-rosas: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s00040-024-00993-0
@@ -1224,17 +1177,17 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.25100/socolen.v48i2.11980
-  title: "Primeros registros de dos especies y dos g\xE9neros de hormigas (Hymenoptera:\
-    \ Formicidae) colectadas en una  zona semiurbana de Yucat\xE1n, M\xE9xico"
+  title: 'First Records of Two Species and Two Genera of Ants (Hymenoptera: Formicidae)
+    Collected in A Semi-Urban Area from Yucatan, Mexico'
   authors:
   - Alan Cano-Ravell
-  - "Madai Rosas-Mej\xEDa"
-  - "Miguel V\xE1squez-Bola\xF1os"
-  - "Horacio Salom\xF3n Ballina-G\xF3mez"
-  - "Ana Luz Tuyin-D\xEDaz"
-  - "Guadalupe del Carmen Reyes-Sol\xEDs"
+  - "Madai Rosas-Mej\xCDA"
+  - "Miguel V\xC1Squez-Bola\xD1Os"
+  - "Horacio Salom\xD3N Ballina-G\xD3Mez"
+  - "Ana Luz Tuyin-D\xCDAz"
+  - "Guadalupe Del Carmen Reyes-Sol\xCDS"
   publisher: "Revista Colombiana de Entomolog\xEDa"
-  date: '2022-12-05'
+  date: '2022-07-01'
   link: https://doi.org/g8x4hd
   orcid: 0000-0002-6815-7122
   madai-rosas: true
@@ -1273,14 +1226,15 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.25100/socolen.v48i1.11505
-  title: "Primer reporte de Cephalonomia gallicola (Ashmead) (Hymenoptera: Bethylidae)\
-    \ en M\xE9xico: Un caso de picaduras en humanos"
+  title: "First Report of\n                    <i>Cephalonomia Gallicola</i>\n   \
+    \                 (Ashmead) (Hymenoptera, Bethylidae) In Mexico: A Case Of Stings\
+    \ In Humans"
   authors:
-  - "Miguel \xC1. Garc\xEDa-Mart\xEDnez"
+  - "Miguel A. Garc\xCDA-Mart\xCDNez"
   - Francisco Reyes-Zepeda
-  - "Madai Rosas-Mej\xEDa"
+  - "Madai Rosas-Mej\xCDA"
   publisher: "Revista Colombiana de Entomolog\xEDa"
-  date: '2022-04-07'
+  date: '2022-01-01'
   link: https://doi.org/g8x4hh
   orcid: 0000-0002-6815-7122
   madai-rosas: true
@@ -1329,23 +1283,6 @@
   publisher: Southwestern Entomologist
   date: '2021-09-29'
   link: https://doi.org/g8x4hk
-  orcid: 0000-0002-6815-7122
-  madai-rosas: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.18474/jes20-91
-  title: 'First Report of <i>Caryobruchus gleditsiae</i> (Coleoptera: Chrysomelidae)
-    on <i>Brahea berlandieri</i> in Northeast Mexico'
-  authors:
-  - Francisco Reyes-Zepeda
-  - "Cristian D. Marez-L\xF3pez"
-  - "Madai Rosas-Mej\xEDa"
-  - Salvador Ordaz-Silva
-  - "Agust\xEDn Hern\xE1ndez-Ju\xE1rez"
-  - "Julio C. Chac\xF3n-Hern\xE1ndez"
-  publisher: Journal of Entomological Science
-  date: '2021-09-22'
-  link: https://doi.org/g8x4hm
   orcid: 0000-0002-6815-7122
   madai-rosas: true
   plugin: orcid.py
@@ -1675,19 +1612,18 @@
   madai-rosas: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.21829/azm.2015.312985
-  title: 'Preferencias entre cinco carbohidratos en Pheidole bilimeki (Hymenoptera:
-    Formicidae)'
+- id: doi:10.1111/aec.70286
+  title: 'When Resources Become Limited: Trophic Niches Shift From Generalism to Specialization
+    in Dung Beetles (Coleoptera: Scarabaeinae)'
   authors:
-  - "Madai Rosas-Mej\xEDa"
-  - Alfonso Correa-Sandoval
-  - Crystian Sadiel Venegas-Barrera
-  - "Jorge V\xEDctor Horta-Vega"
-  publisher: "ACTA ZOOL\xD3GICA MEXICANA (N.S.)"
-  date: '2015-08-16'
-  link: https://doi.org/g8x4h9
-  orcid: 0000-0002-6815-7122
-  madai-rosas: true
+  - "Leonardo Vilas\u2010B\xF4as M. P. De Cerqueira"
+  - "Dami\xE1n Villase\xF1or\u2010Amador"
+  - "C\xE9sar Murilo De Albuquerque Correa"
+  publisher: Austral Ecology
+  date: '2026-09-01'
+  link: https://doi.org/hchtww
+  orcid: 0000-0002-6566-9069
+  damian-villasenor: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1111/eea.70061
@@ -1805,11 +1741,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/11956860.2024.2426324
-  title: "Refuge and supplementary bamboo-based diet in capuchin monkeys (\n     \
-    \       <i>Sapajus nigritus cucullatus</i>\n            ) in association with\
-    \ habitat fragmentation and stochastic events"
+  title: Refuge and supplementary bamboo-based diet in capuchin monkeys ( <i>Sapajus
+    nigritus cucullatus</i> ) in association with habitat fragmentation and stochastic
+    events
   authors:
-  - "Victoria Mart\xEDnez de Zorzi"
+  - "Victoria Mart\xEDnez De Zorzi"
   - Andrea Susana Vega
   - Carolina Guerreiro
   - "Dami\xE1n Villase\xF1or-Amador"
